@@ -1,0 +1,15 @@
+[
+  {
+    "problemId": "486",
+    "problemTitle": "Predict the Winner",
+    "problemSlug": "predict-the-winner",
+    "difficulty": "Medium",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "0 ms",
+    "memory": "9.5 MB",
+    "submissionId": "2090552929",
+    "timestamp": "1785616768",
+    "path": "Medium/0486_Predict_the_Winner.cpp"
+  }
+]
