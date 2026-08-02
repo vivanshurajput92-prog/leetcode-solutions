@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 1
+Total Solved: 2
 
 ## Easy
 
@@ -9,6 +9,7 @@ Total Solved: 1
 ## Medium
 
 - Predict the Winner ([C++](Medium/0486_Predict_the_Winner.cpp))
+- Stone Game ([C++](Medium/0909_Stone_Game.cpp))
 
 ## Hard
 
@@ -19,7 +20,7 @@ Total Solved: 1
 | Difficulty | Count |
 |------------|--------|
 | Easy | 0 |
-| Medium | 1 |
+| Medium | 2 |
 | Hard | 0 |
 
 ---
