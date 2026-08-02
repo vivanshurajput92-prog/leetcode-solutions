@@ -24,5 +24,18 @@
     "submissionId": "2090956590",
     "timestamp": "1785650748",
     "path": "Medium/0909_Stone_Game.cpp"
+  },
+  {
+    "problemId": "90",
+    "problemTitle": "Subsets II",
+    "problemSlug": "subsets-ii",
+    "difficulty": "Medium",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "8 ms",
+    "memory": "18.7 MB",
+    "submissionId": "2090981621",
+    "timestamp": "1785652047",
+    "path": "Medium/0090_Subsets_II.cpp"
   }
 ]
