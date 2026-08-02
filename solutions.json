@@ -19,10 +19,10 @@
     "difficulty": "Medium",
     "language": "C++",
     "extension": "cpp",
-    "runtime": "23 ms",
-    "memory": "19.8 MB",
-    "submissionId": "2090952392",
-    "timestamp": "1785650524",
+    "runtime": "0 ms",
+    "memory": "10.7 MB",
+    "submissionId": "2090956590",
+    "timestamp": "1785650748",
     "path": "Medium/0909_Stone_Game.cpp"
   }
 ]
