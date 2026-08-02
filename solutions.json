@@ -89,5 +89,18 @@
     "submissionId": "2091372387",
     "timestamp": "1785675577",
     "path": "Easy/0225_Implement_Stack_using_Queues.cpp"
+  },
+  {
+    "problemId": "155",
+    "problemTitle": "Min Stack",
+    "problemSlug": "min-stack",
+    "difficulty": "Medium",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "71 ms",
+    "memory": "151.2 MB",
+    "submissionId": "2091623831",
+    "timestamp": "1785688656",
+    "path": "Medium/0155_Min_Stack.cpp"
   }
 ]
