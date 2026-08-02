@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 7
+Total Solved: 8
 
 ## Easy
 
@@ -10,6 +10,7 @@ Total Solved: 7
 ## Medium
 
 - Subsets II ([C++](Medium/0090_Subsets_II.cpp))
+- Min Stack ([C++](Medium/0155_Min_Stack.cpp))
 - Predict the Winner ([C++](Medium/0486_Predict_the_Winner.cpp))
 - Stone Game ([C++](Medium/0909_Stone_Game.cpp))
 - Build an Array With Stack Operations ([C++](Medium/1552_Build_an_Array_With_Stack_Operations.cpp))
@@ -24,7 +25,7 @@ Total Solved: 7
 | Difficulty | Count |
 |------------|--------|
 | Easy | 2 |
-| Medium | 5 |
+| Medium | 6 |
 | Hard | 0 |
 
 ---
