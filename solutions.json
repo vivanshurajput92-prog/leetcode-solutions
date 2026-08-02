@@ -37,5 +37,18 @@
     "submissionId": "2090983923",
     "timestamp": "1785652163",
     "path": "Medium/0090_Subsets_II.cpp"
+  },
+  {
+    "problemId": "4323",
+    "problemTitle": "Count Subarrays With Even Odd Ratio I",
+    "problemSlug": "count-subarrays-with-even-odd-ratio-i",
+    "difficulty": "Medium",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "50 ms",
+    "memory": "29.8 MB",
+    "submissionId": "2090998383",
+    "timestamp": "1785652915",
+    "path": "Medium/4323_Count_Subarrays_With_Even_Odd_Ratio_I.cpp"
   }
 ]
