@@ -102,5 +102,18 @@
     "submissionId": "2091623831",
     "timestamp": "1785688656",
     "path": "Medium/0155_Min_Stack.cpp"
+  },
+  {
+    "problemId": "813",
+    "problemTitle": "All Paths From Source to Target",
+    "problemSlug": "all-paths-from-source-to-target",
+    "difficulty": "Medium",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "23 ms",
+    "memory": "19.9 MB",
+    "submissionId": "2091758198",
+    "timestamp": "1785694551",
+    "path": "Medium/0813_All_Paths_From_Source_to_Target.cpp"
   }
 ]
