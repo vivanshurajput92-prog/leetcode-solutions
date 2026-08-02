@@ -63,5 +63,18 @@
     "submissionId": "2091009357",
     "timestamp": "1785653501",
     "path": "Easy/4371_Maximize_Pair_Strength_Using_GCD.cpp"
+  },
+  {
+    "problemId": "1552",
+    "problemTitle": "Build an Array With Stack Operations",
+    "problemSlug": "build-an-array-with-stack-operations",
+    "difficulty": "Medium",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "0 ms",
+    "memory": "10.8 MB",
+    "submissionId": "2091339882",
+    "timestamp": "1785673727",
+    "path": "Medium/1552_Build_an_Array_With_Stack_Operations.cpp"
   }
 ]
