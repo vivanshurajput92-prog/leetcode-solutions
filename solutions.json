@@ -76,5 +76,18 @@
     "submissionId": "2091339882",
     "timestamp": "1785673727",
     "path": "Medium/1552_Build_an_Array_With_Stack_Operations.cpp"
+  },
+  {
+    "problemId": "225",
+    "problemTitle": "Implement Stack using Queues",
+    "problemSlug": "implement-stack-using-queues",
+    "difficulty": "Easy",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "0 ms",
+    "memory": "10.1 MB",
+    "submissionId": "2091372387",
+    "timestamp": "1785675577",
+    "path": "Easy/0225_Implement_Stack_using_Queues.cpp"
   }
 ]
