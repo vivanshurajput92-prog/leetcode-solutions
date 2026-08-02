@@ -50,5 +50,18 @@
     "submissionId": "2090998383",
     "timestamp": "1785652915",
     "path": "Medium/4323_Count_Subarrays_With_Even_Odd_Ratio_I.cpp"
+  },
+  {
+    "problemId": "4371",
+    "problemTitle": "Maximize Pair Strength Using GCD",
+    "problemSlug": "maximize-pair-strength-using-gcd",
+    "difficulty": "Easy",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "879 ms",
+    "memory": "37 MB",
+    "submissionId": "2091009357",
+    "timestamp": "1785653501",
+    "path": "Easy/4371_Maximize_Pair_Strength_Using_GCD.cpp"
   }
 ]
