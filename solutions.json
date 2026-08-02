@@ -11,5 +11,18 @@
     "submissionId": "2090552929",
     "timestamp": "1785616768",
     "path": "Medium/0486_Predict_the_Winner.cpp"
+  },
+  {
+    "problemId": "909",
+    "problemTitle": "Stone Game",
+    "problemSlug": "stone-game",
+    "difficulty": "Medium",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "23 ms",
+    "memory": "19.8 MB",
+    "submissionId": "2090952392",
+    "timestamp": "1785650524",
+    "path": "Medium/0909_Stone_Game.cpp"
   }
 ]
