@@ -1,10 +1,10 @@
 # LeetCode Solutions
 
-Total Solved: 4
+Total Solved: 5
 
 ## Easy
 
-*No easy problems solved yet.*
+- Maximize Pair Strength Using GCD ([C++](Easy/4371_Maximize_Pair_Strength_Using_GCD.cpp))
 
 ## Medium
 
@@ -21,7 +21,7 @@ Total Solved: 4
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 0 |
+| Easy | 1 |
 | Medium | 4 |
 | Hard | 0 |
 
