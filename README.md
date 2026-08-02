@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 5
+Total Solved: 6
 
 ## Easy
 
@@ -11,6 +11,7 @@ Total Solved: 5
 - Subsets II ([C++](Medium/0090_Subsets_II.cpp))
 - Predict the Winner ([C++](Medium/0486_Predict_the_Winner.cpp))
 - Stone Game ([C++](Medium/0909_Stone_Game.cpp))
+- Build an Array With Stack Operations ([C++](Medium/1552_Build_an_Array_With_Stack_Operations.cpp))
 - Count Subarrays With Even Odd Ratio I ([C++](Medium/4323_Count_Subarrays_With_Even_Odd_Ratio_I.cpp))
 
 ## Hard
@@ -22,7 +23,7 @@ Total Solved: 5
 | Difficulty | Count |
 |------------|--------|
 | Easy | 1 |
-| Medium | 4 |
+| Medium | 5 |
 | Hard | 0 |
 
 ---
