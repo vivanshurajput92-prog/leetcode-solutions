@@ -1,9 +1,10 @@
 # LeetCode Solutions
 
-Total Solved: 6
+Total Solved: 7
 
 ## Easy
 
+- Implement Stack using Queues ([C++](Easy/0225_Implement_Stack_using_Queues.cpp))
 - Maximize Pair Strength Using GCD ([C++](Easy/4371_Maximize_Pair_Strength_Using_GCD.cpp))
 
 ## Medium
@@ -22,7 +23,7 @@ Total Solved: 6
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 1 |
+| Easy | 2 |
 | Medium | 5 |
 | Hard | 0 |
 
