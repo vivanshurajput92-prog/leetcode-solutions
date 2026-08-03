@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 9
+Total Solved: 10
 
 ## Easy
 
@@ -19,7 +19,7 @@ Total Solved: 9
 
 ## Hard
 
-*No hard problems solved yet.*
+- Stone Game III ([C++](Hard/1522_Stone_Game_III.cpp))
 
 ## Statistics
 
@@ -27,7 +27,7 @@ Total Solved: 9
 |------------|--------|
 | Easy | 2 |
 | Medium | 7 |
-| Hard | 0 |
+| Hard | 1 |
 
 ---
 *README.md automatically updated by [LeetCelebrate](https://github.com/)*
