@@ -115,5 +115,18 @@
     "submissionId": "2091758198",
     "timestamp": "1785694551",
     "path": "Medium/0813_All_Paths_From_Source_to_Target.cpp"
+  },
+  {
+    "problemId": "1522",
+    "problemTitle": "Stone Game III",
+    "problemSlug": "stone-game-iii",
+    "difficulty": "Hard",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "20 ms",
+    "memory": "130.1 MB",
+    "submissionId": "2092607316",
+    "timestamp": "1785761205",
+    "path": "Hard/1522_Stone_Game_III.cpp"
   }
 ]
