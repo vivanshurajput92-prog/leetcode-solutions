@@ -180,5 +180,18 @@
     "submissionId": "2094515504",
     "timestamp": "1785870342",
     "path": "Easy/1231_Replace_Elements_with_Greatest_Element_on_Right_Side.cpp"
+  },
+  {
+    "problemId": "39",
+    "problemTitle": "Combination Sum",
+    "problemSlug": "combination-sum",
+    "difficulty": "Medium",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "95 ms",
+    "memory": "72.4 MB",
+    "submissionId": "2094549716",
+    "timestamp": "1785872737",
+    "path": "Medium/0039_Combination_Sum.cpp"
   }
 ]
