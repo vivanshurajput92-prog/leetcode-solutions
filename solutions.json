@@ -175,10 +175,10 @@
     "difficulty": "Easy",
     "language": "C++",
     "extension": "cpp",
-    "runtime": "3 ms",
+    "runtime": "0 ms",
     "memory": "72.7 MB",
-    "submissionId": "2094513689",
-    "timestamp": "1785870230",
+    "submissionId": "2094515504",
+    "timestamp": "1785870342",
     "path": "Easy/1231_Replace_Elements_with_Greatest_Element_on_Right_Side.cpp"
   }
 ]
