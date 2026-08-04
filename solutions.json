@@ -193,5 +193,18 @@
     "submissionId": "2094549716",
     "timestamp": "1785872737",
     "path": "Medium/0039_Combination_Sum.cpp"
+  },
+  {
+    "problemId": "40",
+    "problemTitle": "Combination Sum II",
+    "problemSlug": "combination-sum-ii",
+    "difficulty": "Medium",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "0 ms",
+    "memory": "14.3 MB",
+    "submissionId": "2094563646",
+    "timestamp": "1785873973",
+    "path": "Medium/0040_Combination_Sum_II.cpp"
   }
 ]
