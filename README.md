@@ -1,10 +1,11 @@
 # LeetCode Solutions
 
-Total Solved: 10
+Total Solved: 11
 
 ## Easy
 
 - Implement Stack using Queues ([C++](Easy/0225_Implement_Stack_using_Queues.cpp))
+- Find Missing Elements ([C++](Easy/4107_Find_Missing_Elements.cpp))
 - Maximize Pair Strength Using GCD ([C++](Easy/4371_Maximize_Pair_Strength_Using_GCD.cpp))
 
 ## Medium
@@ -25,7 +26,7 @@ Total Solved: 10
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 2 |
+| Easy | 3 |
 | Medium | 7 |
 | Hard | 1 |
 
