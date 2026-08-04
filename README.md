@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 16
+Total Solved: 17
 
 ## Easy
 
@@ -14,6 +14,7 @@ Total Solved: 16
 
 - Combination Sum ([C++](Medium/0039_Combination_Sum.cpp))
 - Combination Sum II ([C++](Medium/0040_Combination_Sum_II.cpp))
+- Search a 2D Matrix ([C++](Medium/0074_Search_a_2D_Matrix.cpp))
 - Subsets II ([C++](Medium/0090_Subsets_II.cpp))
 - Min Stack ([C++](Medium/0155_Min_Stack.cpp))
 - Predict the Winner ([C++](Medium/0486_Predict_the_Winner.cpp))
@@ -32,7 +33,7 @@ Total Solved: 16
 | Difficulty | Count |
 |------------|--------|
 | Easy | 5 |
-| Medium | 10 |
+| Medium | 11 |
 | Hard | 1 |
 
 ---
