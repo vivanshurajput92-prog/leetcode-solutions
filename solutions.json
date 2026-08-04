@@ -206,5 +206,18 @@
     "submissionId": "2094563646",
     "timestamp": "1785873973",
     "path": "Medium/0040_Combination_Sum_II.cpp"
+  },
+  {
+    "problemId": "74",
+    "problemTitle": "Search a 2D Matrix",
+    "problemSlug": "search-a-2d-matrix",
+    "difficulty": "Medium",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "0 ms",
+    "memory": "13.5 MB",
+    "submissionId": "2094574344",
+    "timestamp": "1785875045",
+    "path": "Medium/0074_Search_a_2D_Matrix.cpp"
   }
 ]
