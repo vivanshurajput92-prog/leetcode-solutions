@@ -1,11 +1,12 @@
 # LeetCode Solutions
 
-Total Solved: 13
+Total Solved: 14
 
 ## Easy
 
 - Implement Stack using Queues ([C++](Easy/0225_Implement_Stack_using_Queues.cpp))
 - Next Greater Element I ([C++](Easy/0496_Next_Greater_Element_I.cpp))
+- Replace Elements with Greatest Element on Right Side ([C++](Easy/1231_Replace_Elements_with_Greatest_Element_on_Right_Side.cpp))
 - Find Missing Elements ([C++](Easy/4107_Find_Missing_Elements.cpp))
 - Maximize Pair Strength Using GCD ([C++](Easy/4371_Maximize_Pair_Strength_Using_GCD.cpp))
 
@@ -28,7 +29,7 @@ Total Solved: 13
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 4 |
+| Easy | 5 |
 | Medium | 8 |
 | Hard | 1 |
 
