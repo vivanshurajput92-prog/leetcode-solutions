@@ -167,5 +167,18 @@
     "submissionId": "2094497760",
     "timestamp": "1785869313",
     "path": "Medium/0503_Next_Greater_Element_II.cpp"
+  },
+  {
+    "problemId": "1231",
+    "problemTitle": "Replace Elements with Greatest Element on Right Side",
+    "problemSlug": "replace-elements-with-greatest-element-on-right-side",
+    "difficulty": "Easy",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "3 ms",
+    "memory": "72.7 MB",
+    "submissionId": "2094513689",
+    "timestamp": "1785870230",
+    "path": "Easy/1231_Replace_Elements_with_Greatest_Element_on_Right_Side.cpp"
   }
 ]
