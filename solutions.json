@@ -141,5 +141,18 @@
     "submissionId": "2093621731",
     "timestamp": "1785827658",
     "path": "Easy/4107_Find_Missing_Elements.cpp"
+  },
+  {
+    "problemId": "496",
+    "problemTitle": "Next Greater Element I",
+    "problemSlug": "next-greater-element-i",
+    "difficulty": "Easy",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "3 ms",
+    "memory": "12.9 MB",
+    "submissionId": "2093638397",
+    "timestamp": "1785828642",
+    "path": "Easy/0496_Next_Greater_Element_I.cpp"
   }
 ]
