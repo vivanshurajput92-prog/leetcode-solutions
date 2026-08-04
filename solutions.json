@@ -154,5 +154,18 @@
     "submissionId": "2093638397",
     "timestamp": "1785828642",
     "path": "Easy/0496_Next_Greater_Element_I.cpp"
+  },
+  {
+    "problemId": "503",
+    "problemTitle": "Next Greater Element II",
+    "problemSlug": "next-greater-element-ii",
+    "difficulty": "Medium",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "6 ms",
+    "memory": "28.6 MB",
+    "submissionId": "2094497760",
+    "timestamp": "1785869313",
+    "path": "Medium/0503_Next_Greater_Element_II.cpp"
   }
 ]
