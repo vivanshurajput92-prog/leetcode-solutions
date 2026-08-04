@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 14
+Total Solved: 15
 
 ## Easy
 
@@ -12,6 +12,7 @@ Total Solved: 14
 
 ## Medium
 
+- Combination Sum ([C++](Medium/0039_Combination_Sum.cpp))
 - Subsets II ([C++](Medium/0090_Subsets_II.cpp))
 - Min Stack ([C++](Medium/0155_Min_Stack.cpp))
 - Predict the Winner ([C++](Medium/0486_Predict_the_Winner.cpp))
@@ -30,7 +31,7 @@ Total Solved: 14
 | Difficulty | Count |
 |------------|--------|
 | Easy | 5 |
-| Medium | 8 |
+| Medium | 9 |
 | Hard | 1 |
 
 ---
