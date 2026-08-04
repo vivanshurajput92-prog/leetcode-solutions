@@ -3,8 +3,8 @@
  * Problem ID: 496
  * Difficulty: Easy
  * Language: C++
- * Runtime: 3 ms
- * Memory: 12.9 MB
+ * Runtime: 1 ms
+ * Memory: 12.7 MB
  * Synced From: LeetCode
  * Date: 2026-08-04
  */
@@ -18,7 +18,7 @@ public:
         unordered_map<int,int> ans;
         ans[nums2[n-1]] = -1;
         for(int i=n-2;i>=0;i--){
-            while(!s.empty() && nums2[i] > s.top()) s.pop();
+            while(!s.empty() && nums2[i] >= s.top()) s.pop();
             if(!s.empty()) ans[nums2[i]] = s.top();
             else ans[nums2[i]] = -1;
             s.push(nums2[i]);
