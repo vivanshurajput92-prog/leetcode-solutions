@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 17
+Total Solved: 18
 
 ## Easy
 
@@ -22,6 +22,7 @@ Total Solved: 17
 - All Paths From Source to Target ([C++](Medium/0813_All_Paths_From_Source_to_Target.cpp))
 - Stone Game ([C++](Medium/0909_Stone_Game.cpp))
 - Build an Array With Stack Operations ([C++](Medium/1552_Build_an_Array_With_Stack_Operations.cpp))
+- Remove Methods From Project ([C++](Medium/3561_Remove_Methods_From_Project.cpp))
 - Count Subarrays With Even Odd Ratio I ([C++](Medium/4323_Count_Subarrays_With_Even_Odd_Ratio_I.cpp))
 
 ## Hard
@@ -33,7 +34,7 @@ Total Solved: 17
 | Difficulty | Count |
 |------------|--------|
 | Easy | 5 |
-| Medium | 11 |
+| Medium | 12 |
 | Hard | 1 |
 
 ---
