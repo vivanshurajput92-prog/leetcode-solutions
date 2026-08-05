@@ -219,5 +219,18 @@
     "submissionId": "2094574344",
     "timestamp": "1785875045",
     "path": "Medium/0074_Search_a_2D_Matrix.cpp"
+  },
+  {
+    "problemId": "3561",
+    "problemTitle": "Remove Methods From Project",
+    "problemSlug": "remove-methods-from-project",
+    "difficulty": "Medium",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "160 ms",
+    "memory": "301.1 MB",
+    "submissionId": "2095066386",
+    "timestamp": "1785919404",
+    "path": "Medium/3561_Remove_Methods_From_Project.cpp"
   }
 ]
