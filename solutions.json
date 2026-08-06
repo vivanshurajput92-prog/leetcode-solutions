@@ -232,5 +232,18 @@
     "submissionId": "2095066386",
     "timestamp": "1785919404",
     "path": "Medium/3561_Remove_Methods_From_Project.cpp"
+  },
+  {
+    "problemId": "3626",
+    "problemTitle": "Smallest Divisible Digit Product I",
+    "problemSlug": "smallest-divisible-digit-product-i",
+    "difficulty": "Easy",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "0 ms",
+    "memory": "8.4 MB",
+    "submissionId": "2096294593",
+    "timestamp": "1785999548",
+    "path": "Easy/3626_Smallest_Divisible_Digit_Product_I.cpp"
   }
 ]
