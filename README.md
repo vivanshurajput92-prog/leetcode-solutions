@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 19
+Total Solved: 20
 
 ## Easy
 
@@ -18,6 +18,7 @@ Total Solved: 19
 - Search a 2D Matrix ([C++](Medium/0074_Search_a_2D_Matrix.cpp))
 - Subsets II ([C++](Medium/0090_Subsets_II.cpp))
 - Min Stack ([C++](Medium/0155_Min_Stack.cpp))
+- House Robber III ([C++](Medium/0337_House_Robber_III.cpp))
 - Predict the Winner ([C++](Medium/0486_Predict_the_Winner.cpp))
 - Next Greater Element II ([C++](Medium/0503_Next_Greater_Element_II.cpp))
 - All Paths From Source to Target ([C++](Medium/0813_All_Paths_From_Source_to_Target.cpp))
@@ -35,7 +36,7 @@ Total Solved: 19
 | Difficulty | Count |
 |------------|--------|
 | Easy | 6 |
-| Medium | 12 |
+| Medium | 13 |
 | Hard | 1 |
 
 ---
