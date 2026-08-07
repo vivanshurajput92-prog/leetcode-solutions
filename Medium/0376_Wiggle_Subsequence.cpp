@@ -3,14 +3,14 @@
  * Problem ID: 376
  * Difficulty: Medium
  * Language: C++
- * Runtime: 320 ms
- * Memory: 100.2 MB
+ * Runtime: 0 ms
+ * Memory: 10.1 MB
  * Synced From: LeetCode
  * Date: 2026-08-07
  */
 
 class Solution {
-private:
+/*private:
     int f(int i,vector<int> &nums,int j,int last,vector<vector<vector<int>>> &dp){
         if(i >= nums.size()) return 0;
         if(dp[i][j+1][last+2] != -1) return dp[i][j+1][last+2];
@@ -27,5 +27,15 @@ public:
         int n = nums.size();
         vector<vector<vector<int>>> dp(n,vector<vector<int>>(n+1,vector<int>(4,-1)));
         return f(0,nums,-1,-2,dp);
+    }*/
+public:
+    int wiggleMaxLength(vector<int>& nums){
+        int n = nums.size();
+        int up = 1,down = 1;
+        for(int i=1;i<n;i++){
+            if(nums[i] > nums[i-1]) up = down + 1;
+            else if(nums[i] < nums[i-1]) down = up + 1;
+        }
+        return max(up,down);
     }
 };
