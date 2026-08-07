@@ -271,5 +271,18 @@
     "submissionId": "2097809809",
     "timestamp": "1786097578",
     "path": "Medium/0646_Maximum_Length_of_Pair_Chain.cpp"
+  },
+  {
+    "problemId": "377",
+    "problemTitle": "Combination Sum IV",
+    "problemSlug": "combination-sum-iv",
+    "difficulty": "Medium",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "0 ms",
+    "memory": "9.2 MB",
+    "submissionId": "2097851508",
+    "timestamp": "1786100150",
+    "path": "Medium/0377_Combination_Sum_IV.cpp"
   }
 ]
