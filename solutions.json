@@ -245,5 +245,18 @@
     "submissionId": "2096294593",
     "timestamp": "1785999548",
     "path": "Easy/3626_Smallest_Divisible_Digit_Product_I.cpp"
+  },
+  {
+    "problemId": "337",
+    "problemTitle": "House Robber III",
+    "problemSlug": "house-robber-iii",
+    "difficulty": "Medium",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "19 ms",
+    "memory": "30 MB",
+    "submissionId": "2097672752",
+    "timestamp": "1786089267",
+    "path": "Medium/0337_House_Robber_III.cpp"
   }
 ]
