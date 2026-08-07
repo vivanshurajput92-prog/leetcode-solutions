@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 21
+Total Solved: 22
 
 ## Easy
 
@@ -19,6 +19,7 @@ Total Solved: 21
 - Subsets II ([C++](Medium/0090_Subsets_II.cpp))
 - Min Stack ([C++](Medium/0155_Min_Stack.cpp))
 - House Robber III ([C++](Medium/0337_House_Robber_III.cpp))
+- Combination Sum IV ([C++](Medium/0377_Combination_Sum_IV.cpp))
 - Predict the Winner ([C++](Medium/0486_Predict_the_Winner.cpp))
 - Next Greater Element II ([C++](Medium/0503_Next_Greater_Element_II.cpp))
 - Maximum Length of Pair Chain ([C++](Medium/0646_Maximum_Length_of_Pair_Chain.cpp))
@@ -37,7 +38,7 @@ Total Solved: 21
 | Difficulty | Count |
 |------------|--------|
 | Easy | 6 |
-| Medium | 14 |
+| Medium | 15 |
 | Hard | 1 |
 
 ---
