@@ -292,10 +292,10 @@
     "difficulty": "Medium",
     "language": "C++",
     "extension": "cpp",
-    "runtime": "320 ms",
-    "memory": "100.2 MB",
-    "submissionId": "2097886141",
-    "timestamp": "1786102624",
+    "runtime": "0 ms",
+    "memory": "10.1 MB",
+    "submissionId": "2097894741",
+    "timestamp": "1786103240",
     "path": "Medium/0376_Wiggle_Subsequence.cpp"
   }
 ]
