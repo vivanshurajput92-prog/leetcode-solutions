@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 20
+Total Solved: 21
 
 ## Easy
 
@@ -21,6 +21,7 @@ Total Solved: 20
 - House Robber III ([C++](Medium/0337_House_Robber_III.cpp))
 - Predict the Winner ([C++](Medium/0486_Predict_the_Winner.cpp))
 - Next Greater Element II ([C++](Medium/0503_Next_Greater_Element_II.cpp))
+- Maximum Length of Pair Chain ([C++](Medium/0646_Maximum_Length_of_Pair_Chain.cpp))
 - All Paths From Source to Target ([C++](Medium/0813_All_Paths_From_Source_to_Target.cpp))
 - Stone Game ([C++](Medium/0909_Stone_Game.cpp))
 - Build an Array With Stack Operations ([C++](Medium/1552_Build_an_Array_With_Stack_Operations.cpp))
@@ -36,7 +37,7 @@ Total Solved: 20
 | Difficulty | Count |
 |------------|--------|
 | Easy | 6 |
-| Medium | 13 |
+| Medium | 14 |
 | Hard | 1 |
 
 ---
