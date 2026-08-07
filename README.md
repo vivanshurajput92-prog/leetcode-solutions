@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 22
+Total Solved: 23
 
 ## Easy
 
@@ -19,6 +19,7 @@ Total Solved: 22
 - Subsets II ([C++](Medium/0090_Subsets_II.cpp))
 - Min Stack ([C++](Medium/0155_Min_Stack.cpp))
 - House Robber III ([C++](Medium/0337_House_Robber_III.cpp))
+- Wiggle Subsequence ([C++](Medium/0376_Wiggle_Subsequence.cpp))
 - Combination Sum IV ([C++](Medium/0377_Combination_Sum_IV.cpp))
 - Predict the Winner ([C++](Medium/0486_Predict_the_Winner.cpp))
 - Next Greater Element II ([C++](Medium/0503_Next_Greater_Element_II.cpp))
@@ -38,7 +39,7 @@ Total Solved: 22
 | Difficulty | Count |
 |------------|--------|
 | Easy | 6 |
-| Medium | 15 |
+| Medium | 16 |
 | Hard | 1 |
 
 ---
