@@ -284,5 +284,18 @@
     "submissionId": "2097851508",
     "timestamp": "1786100150",
     "path": "Medium/0377_Combination_Sum_IV.cpp"
+  },
+  {
+    "problemId": "376",
+    "problemTitle": "Wiggle Subsequence",
+    "problemSlug": "wiggle-subsequence",
+    "difficulty": "Medium",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "320 ms",
+    "memory": "100.2 MB",
+    "submissionId": "2097886141",
+    "timestamp": "1786102624",
+    "path": "Medium/0376_Wiggle_Subsequence.cpp"
   }
 ]
