@@ -310,5 +310,18 @@
     "submissionId": "2098776857",
     "timestamp": "1786172550",
     "path": "Easy/0112_Path_Sum.cpp"
+  },
+  {
+    "problemId": "113",
+    "problemTitle": "Path Sum II",
+    "problemSlug": "path-sum-ii",
+    "difficulty": "Medium",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "0 ms",
+    "memory": "21 MB",
+    "submissionId": "2098784039",
+    "timestamp": "1786172982",
+    "path": "Medium/0113_Path_Sum_II.cpp"
   }
 ]
