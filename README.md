@@ -1,9 +1,10 @@
 # LeetCode Solutions
 
-Total Solved: 23
+Total Solved: 24
 
 ## Easy
 
+- Path Sum ([C++](Easy/0112_Path_Sum.cpp))
 - Implement Stack using Queues ([C++](Easy/0225_Implement_Stack_using_Queues.cpp))
 - Next Greater Element I ([C++](Easy/0496_Next_Greater_Element_I.cpp))
 - Replace Elements with Greatest Element on Right Side ([C++](Easy/1231_Replace_Elements_with_Greatest_Element_on_Right_Side.cpp))
@@ -38,7 +39,7 @@ Total Solved: 23
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 6 |
+| Easy | 7 |
 | Medium | 16 |
 | Hard | 1 |
 
