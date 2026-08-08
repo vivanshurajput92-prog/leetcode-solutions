@@ -323,5 +323,18 @@
     "submissionId": "2098784039",
     "timestamp": "1786172982",
     "path": "Medium/0113_Path_Sum_II.cpp"
+  },
+  {
+    "problemId": "238",
+    "problemTitle": "Product of Array Except Self",
+    "problemSlug": "product-of-array-except-self",
+    "difficulty": "Medium",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "0 ms",
+    "memory": "42.2 MB",
+    "submissionId": "2098800649",
+    "timestamp": "1786174068",
+    "path": "Medium/0238_Product_of_Array_Except_Self.cpp"
   }
 ]
