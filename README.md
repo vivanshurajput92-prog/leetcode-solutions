@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 25
+Total Solved: 26
 
 ## Easy
 
@@ -20,6 +20,7 @@ Total Solved: 25
 - Subsets II ([C++](Medium/0090_Subsets_II.cpp))
 - Path Sum II ([C++](Medium/0113_Path_Sum_II.cpp))
 - Min Stack ([C++](Medium/0155_Min_Stack.cpp))
+- Product of Array Except Self ([C++](Medium/0238_Product_of_Array_Except_Self.cpp))
 - House Robber III ([C++](Medium/0337_House_Robber_III.cpp))
 - Wiggle Subsequence ([C++](Medium/0376_Wiggle_Subsequence.cpp))
 - Combination Sum IV ([C++](Medium/0377_Combination_Sum_IV.cpp))
@@ -41,7 +42,7 @@ Total Solved: 25
 | Difficulty | Count |
 |------------|--------|
 | Easy | 7 |
-| Medium | 17 |
+| Medium | 18 |
 | Hard | 1 |
 
 ---
