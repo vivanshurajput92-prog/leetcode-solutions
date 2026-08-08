@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 26
+Total Solved: 27
 
 ## Easy
 
@@ -32,6 +32,7 @@ Total Solved: 26
 - Build an Array With Stack Operations ([C++](Medium/1552_Build_an_Array_With_Stack_Operations.cpp))
 - Remove Methods From Project ([C++](Medium/3561_Remove_Methods_From_Project.cpp))
 - Count Subarrays With Even Odd Ratio I ([C++](Medium/4323_Count_Subarrays_With_Even_Odd_Ratio_I.cpp))
+- Boats to Save People([C++](https://leetcode.com/problems/boats-to-save-people/?envType=problem-list-v2&envId=greedy)) 
 
 ## Hard
 
@@ -42,7 +43,7 @@ Total Solved: 26
 | Difficulty | Count |
 |------------|--------|
 | Easy | 7 |
-| Medium | 18 |
+| Medium | 19 |
 | Hard | 1 |
 
 ---
