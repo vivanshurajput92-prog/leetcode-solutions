@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 24
+Total Solved: 25
 
 ## Easy
 
@@ -18,6 +18,7 @@ Total Solved: 24
 - Combination Sum II ([C++](Medium/0040_Combination_Sum_II.cpp))
 - Search a 2D Matrix ([C++](Medium/0074_Search_a_2D_Matrix.cpp))
 - Subsets II ([C++](Medium/0090_Subsets_II.cpp))
+- Path Sum II ([C++](Medium/0113_Path_Sum_II.cpp))
 - Min Stack ([C++](Medium/0155_Min_Stack.cpp))
 - House Robber III ([C++](Medium/0337_House_Robber_III.cpp))
 - Wiggle Subsequence ([C++](Medium/0376_Wiggle_Subsequence.cpp))
@@ -40,7 +41,7 @@ Total Solved: 24
 | Difficulty | Count |
 |------------|--------|
 | Easy | 7 |
-| Medium | 16 |
+| Medium | 17 |
 | Hard | 1 |
 
 ---
