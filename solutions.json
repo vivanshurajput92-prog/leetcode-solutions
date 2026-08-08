@@ -336,5 +336,18 @@
     "submissionId": "2098800649",
     "timestamp": "1786174068",
     "path": "Medium/0238_Product_of_Array_Except_Self.cpp"
+  },
+  {
+    "problemId": "917",
+    "problemTitle": "Boats to Save People",
+    "problemSlug": "boats-to-save-people",
+    "difficulty": "Medium",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "24 ms",
+    "memory": "45.9 MB",
+    "submissionId": "2098806216",
+    "timestamp": "1786174480",
+    "path": "Medium/0917_Boats_to_Save_People.cpp"
   }
 ]
