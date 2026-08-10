@@ -349,5 +349,18 @@
     "submissionId": "2098806216",
     "timestamp": "1786174480",
     "path": "Medium/0917_Boats_to_Save_People.cpp"
+  },
+  {
+    "problemId": "108",
+    "problemTitle": "Convert Sorted Array to Binary Search Tree",
+    "problemSlug": "convert-sorted-array-to-binary-search-tree",
+    "difficulty": "Easy",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "7 ms",
+    "memory": "22.9 MB",
+    "submissionId": "2101716334",
+    "timestamp": "1786375026",
+    "path": "Easy/0108_Convert_Sorted_Array_to_Binary_Search_Tree.cpp"
   }
 ]
