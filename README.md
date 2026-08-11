@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 28
+Total Solved: 29
 
 ## Easy
 
@@ -9,6 +9,7 @@ Total Solved: 28
 - Implement Stack using Queues ([C++](Easy/0225_Implement_Stack_using_Queues.cpp))
 - Next Greater Element I ([C++](Easy/0496_Next_Greater_Element_I.cpp))
 - Replace Elements with Greatest Element on Right Side ([C++](Easy/1231_Replace_Elements_with_Greatest_Element_on_Right_Side.cpp))
+- Smallest Missing Integer Greater Than Sequential Prefix Sum ([C++](Easy/3236_Smallest_Missing_Integer_Greater_Than_Sequential_Prefix_Sum.cpp))
 - Smallest Divisible Digit Product I ([C++](Easy/3626_Smallest_Divisible_Digit_Product_I.cpp))
 - Find Missing Elements ([C++](Easy/4107_Find_Missing_Elements.cpp))
 - Maximize Pair Strength Using GCD ([C++](Easy/4371_Maximize_Pair_Strength_Using_GCD.cpp))
@@ -43,7 +44,7 @@ Total Solved: 28
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 8 |
+| Easy | 9 |
 | Medium | 19 |
 | Hard | 1 |
 
