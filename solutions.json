@@ -362,5 +362,18 @@
     "submissionId": "2101716334",
     "timestamp": "1786375026",
     "path": "Easy/0108_Convert_Sorted_Array_to_Binary_Search_Tree.cpp"
+  },
+  {
+    "problemId": "3236",
+    "problemTitle": "Smallest Missing Integer Greater Than Sequential Prefix Sum",
+    "problemSlug": "smallest-missing-integer-greater-than-sequential-prefix-sum",
+    "difficulty": "Easy",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "0 ms",
+    "memory": "22.7 MB",
+    "submissionId": "2103346859",
+    "timestamp": "1786474599",
+    "path": "Easy/3236_Smallest_Missing_Integer_Greater_Than_Sequential_Prefix_Sum.cpp"
   }
 ]
