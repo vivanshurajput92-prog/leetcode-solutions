@@ -375,5 +375,18 @@
     "submissionId": "2103346859",
     "timestamp": "1786474599",
     "path": "Easy/3236_Smallest_Missing_Integer_Greater_Than_Sequential_Prefix_Sum.cpp"
+  },
+  {
+    "problemId": "3225",
+    "problemTitle": "Length of Longest Subarray With at Most K Frequency",
+    "problemSlug": "length-of-longest-subarray-with-at-most-k-frequency",
+    "difficulty": "Medium",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "72 ms",
+    "memory": "149.4 MB",
+    "submissionId": "2103906714",
+    "timestamp": "1786522750",
+    "path": "Medium/3225_Length_of_Longest_Subarray_With_at_Most_K_Frequency.cpp"
   }
 ]
