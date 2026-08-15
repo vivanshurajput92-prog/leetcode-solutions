@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 30
+Total Solved: 31
 
 ## Easy
 
@@ -35,6 +35,7 @@ Total Solved: 30
 - Build an Array With Stack Operations ([C++](Medium/1552_Build_an_Array_With_Stack_Operations.cpp))
 - Length of Longest Subarray With at Most K Frequency ([C++](Medium/3225_Length_of_Longest_Subarray_With_at_Most_K_Frequency.cpp))
 - Remove Methods From Project ([C++](Medium/3561_Remove_Methods_From_Project.cpp))
+- Longest Subsequence With Non-Zero Bitwise XOR ([C++](Medium/4033_Longest_Subsequence_With_Non-Zero_Bitwise_XOR.cpp))
 - Count Subarrays With Even Odd Ratio I ([C++](Medium/4323_Count_Subarrays_With_Even_Odd_Ratio_I.cpp))
 
 ## Hard
@@ -46,7 +47,7 @@ Total Solved: 30
 | Difficulty | Count |
 |------------|--------|
 | Easy | 9 |
-| Medium | 20 |
+| Medium | 21 |
 | Hard | 1 |
 
 ---
