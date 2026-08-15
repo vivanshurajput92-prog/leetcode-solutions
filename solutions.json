@@ -388,5 +388,18 @@
     "submissionId": "2103906714",
     "timestamp": "1786522750",
     "path": "Medium/3225_Length_of_Longest_Subarray_With_at_Most_K_Frequency.cpp"
+  },
+  {
+    "problemId": "4033",
+    "problemTitle": "Longest Subsequence With Non-Zero Bitwise XOR",
+    "problemSlug": "longest-subsequence-with-non-zero-bitwise-xor",
+    "difficulty": "Medium",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "0 ms",
+    "memory": "171.3 MB",
+    "submissionId": "2107708291",
+    "timestamp": "1786801543",
+    "path": "Medium/4033_Longest_Subsequence_With_Non-Zero_Bitwise_XOR.cpp"
   }
 ]
