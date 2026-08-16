@@ -401,5 +401,18 @@
     "submissionId": "2107708291",
     "timestamp": "1786801543",
     "path": "Medium/4033_Longest_Subsequence_With_Non-Zero_Bitwise_XOR.cpp"
+  },
+  {
+    "problemId": "2156",
+    "problemTitle": "Stone Game IX",
+    "problemSlug": "stone-game-ix",
+    "difficulty": "Medium",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "6 ms",
+    "memory": "131.3 MB",
+    "submissionId": "2108911101",
+    "timestamp": "1786879951",
+    "path": "Medium/2156_Stone_Game_IX.cpp"
   }
 ]
