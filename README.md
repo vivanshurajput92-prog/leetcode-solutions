@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 32
+Total Solved: 33
 
 ## Easy
 
@@ -18,6 +18,7 @@ Total Solved: 32
 
 - Combination Sum ([C++](Medium/0039_Combination_Sum.cpp))
 - Combination Sum II ([C++](Medium/0040_Combination_Sum_II.cpp))
+- Jump Game ([C++](Medium/0055_Jump_Game.cpp))
 - Search a 2D Matrix ([C++](Medium/0074_Search_a_2D_Matrix.cpp))
 - Subsets II ([C++](Medium/0090_Subsets_II.cpp))
 - Path Sum II ([C++](Medium/0113_Path_Sum_II.cpp))
@@ -48,7 +49,7 @@ Total Solved: 32
 | Difficulty | Count |
 |------------|--------|
 | Easy | 9 |
-| Medium | 22 |
+| Medium | 23 |
 | Hard | 1 |
 
 ---
