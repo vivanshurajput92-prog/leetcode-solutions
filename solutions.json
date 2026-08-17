@@ -414,5 +414,18 @@
     "submissionId": "2108911101",
     "timestamp": "1786879951",
     "path": "Medium/2156_Stone_Game_IX.cpp"
+  },
+  {
+    "problemId": "55",
+    "problemTitle": "Jump Game",
+    "problemSlug": "jump-game",
+    "difficulty": "Medium",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "0 ms",
+    "memory": "52.3 MB",
+    "submissionId": "2068777776",
+    "timestamp": "1784128905",
+    "path": "Medium/0055_Jump_Game.cpp"
   }
 ]
