@@ -427,5 +427,18 @@
     "submissionId": "2068777776",
     "timestamp": "1784128905",
     "path": "Medium/0055_Jump_Game.cpp"
+  },
+  {
+    "problemId": "3705",
+    "problemTitle": "Find the Largest Almost Missing Integer",
+    "problemSlug": "find-the-largest-almost-missing-integer",
+    "difficulty": "Easy",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "2 ms",
+    "memory": "29.3 MB",
+    "submissionId": "2111548461",
+    "timestamp": "1787063954",
+    "path": "Easy/3705_Find_the_Largest_Almost_Missing_Integer.cpp"
   }
 ]
