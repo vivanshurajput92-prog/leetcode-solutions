@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 34
+Total Solved: 35
 
 ## Easy
 
@@ -34,6 +34,7 @@ Total Solved: 34
 - All Paths From Source to Target ([C++](Medium/0813_All_Paths_From_Source_to_Target.cpp))
 - Stone Game ([C++](Medium/0909_Stone_Game.cpp))
 - Boats to Save People ([C++](Medium/0917_Boats_to_Save_People.cpp))
+- Cinema Seat Allocation ([C++](Medium/1487_Cinema_Seat_Allocation.cpp))
 - Build an Array With Stack Operations ([C++](Medium/1552_Build_an_Array_With_Stack_Operations.cpp))
 - Stone Game IX ([C++](Medium/2156_Stone_Game_IX.cpp))
 - Length of Longest Subarray With at Most K Frequency ([C++](Medium/3225_Length_of_Longest_Subarray_With_at_Most_K_Frequency.cpp))
@@ -50,7 +51,7 @@ Total Solved: 34
 | Difficulty | Count |
 |------------|--------|
 | Easy | 10 |
-| Medium | 23 |
+| Medium | 24 |
 | Hard | 1 |
 
 ---
