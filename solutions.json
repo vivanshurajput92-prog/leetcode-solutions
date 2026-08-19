@@ -440,5 +440,18 @@
     "submissionId": "2111548461",
     "timestamp": "1787063954",
     "path": "Easy/3705_Find_the_Largest_Almost_Missing_Integer.cpp"
+  },
+  {
+    "problemId": "1487",
+    "problemTitle": "Cinema Seat Allocation",
+    "problemSlug": "cinema-seat-allocation",
+    "difficulty": "Medium",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "103 ms",
+    "memory": "92.1 MB",
+    "submissionId": "2112971010",
+    "timestamp": "1787158016",
+    "path": "Medium/1487_Cinema_Seat_Allocation.cpp"
   }
 ]
