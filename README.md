@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 35
+Total Solved: 36
 
 ## Easy
 
@@ -10,6 +10,7 @@ Total Solved: 35
 - Next Greater Element I ([C++](Easy/0496_Next_Greater_Element_I.cpp))
 - Replace Elements with Greatest Element on Right Side ([C++](Easy/1231_Replace_Elements_with_Greatest_Element_on_Right_Side.cpp))
 - Smallest Missing Integer Greater Than Sequential Prefix Sum ([C++](Easy/3236_Smallest_Missing_Integer_Greater_Than_Sequential_Prefix_Sum.cpp))
+- Distribute Elements Into Two Arrays I ([C++](Easy/3347_Distribute_Elements_Into_Two_Arrays_I.cpp))
 - Smallest Divisible Digit Product I ([C++](Easy/3626_Smallest_Divisible_Digit_Product_I.cpp))
 - Find the Largest Almost Missing Integer ([C++](Easy/3705_Find_the_Largest_Almost_Missing_Integer.cpp))
 - Find Missing Elements ([C++](Easy/4107_Find_Missing_Elements.cpp))
@@ -50,7 +51,7 @@ Total Solved: 35
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 10 |
+| Easy | 11 |
 | Medium | 24 |
 | Hard | 1 |
 
