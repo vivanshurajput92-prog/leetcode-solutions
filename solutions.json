@@ -453,5 +453,18 @@
     "submissionId": "2112971010",
     "timestamp": "1787158016",
     "path": "Medium/1487_Cinema_Seat_Allocation.cpp"
+  },
+  {
+    "problemId": "3347",
+    "problemTitle": "Distribute Elements Into Two Arrays I",
+    "problemSlug": "distribute-elements-into-two-arrays-i",
+    "difficulty": "Easy",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "1 ms",
+    "memory": "24 MB",
+    "submissionId": "2114219083",
+    "timestamp": "1787245598",
+    "path": "Easy/3347_Distribute_Elements_Into_Two_Arrays_I.cpp"
   }
 ]
