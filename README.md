@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 36
+Total Solved: 37
 
 ## Easy
 
@@ -13,6 +13,7 @@ Total Solved: 36
 - Distribute Elements Into Two Arrays I ([C++](Easy/3347_Distribute_Elements_Into_Two_Arrays_I.cpp))
 - Smallest Divisible Digit Product I ([C++](Easy/3626_Smallest_Divisible_Digit_Product_I.cpp))
 - Find the Largest Almost Missing Integer ([C++](Easy/3705_Find_the_Largest_Almost_Missing_Integer.cpp))
+- Check Divisibility by Digit Sum and Product ([C++](Easy/3918_Check_Divisibility_by_Digit_Sum_and_Product.cpp))
 - Find Missing Elements ([C++](Easy/4107_Find_Missing_Elements.cpp))
 - Maximize Pair Strength Using GCD ([C++](Easy/4371_Maximize_Pair_Strength_Using_GCD.cpp))
 
@@ -51,7 +52,7 @@ Total Solved: 36
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 11 |
+| Easy | 12 |
 | Medium | 24 |
 | Hard | 1 |
 
