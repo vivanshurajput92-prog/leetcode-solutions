@@ -466,5 +466,18 @@
     "submissionId": "2114219083",
     "timestamp": "1787245598",
     "path": "Easy/3347_Distribute_Elements_Into_Two_Arrays_I.cpp"
+  },
+  {
+    "problemId": "3918",
+    "problemTitle": "Check Divisibility by Digit Sum and Product",
+    "problemSlug": "check-divisibility-by-digit-sum-and-product",
+    "difficulty": "Easy",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "0 ms",
+    "memory": "7.9 MB",
+    "submissionId": "2116122362",
+    "timestamp": "1787401913",
+    "path": "Easy/3918_Check_Divisibility_by_Digit_Sum_and_Product.cpp"
   }
 ]
