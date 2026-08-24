@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 38
+Total Solved: 39
 
 ## Easy
 
@@ -8,6 +8,7 @@ Total Solved: 38
 - Path Sum ([C++](Easy/0112_Path_Sum.cpp))
 - Implement Stack using Queues ([C++](Easy/0225_Implement_Stack_using_Queues.cpp))
 - Next Greater Element I ([C++](Easy/0496_Next_Greater_Element_I.cpp))
+- Relative Ranks ([C++](Easy/0506_Relative_Ranks.cpp))
 - Replace Elements with Greatest Element on Right Side ([C++](Easy/1231_Replace_Elements_with_Greatest_Element_on_Right_Side.cpp))
 - Smallest Missing Integer Greater Than Sequential Prefix Sum ([C++](Easy/3236_Smallest_Missing_Integer_Greater_Than_Sequential_Prefix_Sum.cpp))
 - Distribute Elements Into Two Arrays I ([C++](Easy/3347_Distribute_Elements_Into_Two_Arrays_I.cpp))
@@ -53,7 +54,7 @@ Total Solved: 38
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 12 |
+| Easy | 13 |
 | Medium | 25 |
 | Hard | 1 |
 
