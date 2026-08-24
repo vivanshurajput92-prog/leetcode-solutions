@@ -492,5 +492,18 @@
     "submissionId": "2117756816",
     "timestamp": "1787512502",
     "path": "Medium/2039_Sum_Game.cpp"
+  },
+  {
+    "problemId": "506",
+    "problemTitle": "Relative Ranks",
+    "problemSlug": "relative-ranks",
+    "difficulty": "Easy",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "3 ms",
+    "memory": "17.5 MB",
+    "submissionId": "2118609721",
+    "timestamp": "1787585522",
+    "path": "Easy/0506_Relative_Ranks.cpp"
   }
 ]
