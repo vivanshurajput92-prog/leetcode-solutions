@@ -1,11 +1,12 @@
 # LeetCode Solutions
 
-Total Solved: 40
+Total Solved: 41
 
 ## Easy
 
 - Convert Sorted Array to Binary Search Tree ([C++](Easy/0108_Convert_Sorted_Array_to_Binary_Search_Tree.cpp))
 - Path Sum ([C++](Easy/0112_Path_Sum.cpp))
+- Majority Element ([C++](Easy/0169_Majority_Element.cpp))
 - Implement Stack using Queues ([C++](Easy/0225_Implement_Stack_using_Queues.cpp))
 - Next Greater Element I ([C++](Easy/0496_Next_Greater_Element_I.cpp))
 - Relative Ranks ([C++](Easy/0506_Relative_Ranks.cpp))
@@ -55,7 +56,7 @@ Total Solved: 40
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 13 |
+| Easy | 14 |
 | Medium | 26 |
 | Hard | 1 |
 
