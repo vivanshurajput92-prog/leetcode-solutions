@@ -518,5 +518,18 @@
     "submissionId": "2120947418",
     "timestamp": "1787757299",
     "path": "Medium/3150_Shortest_and_Lexicographically_Smallest_Beautiful_String.cpp"
+  },
+  {
+    "problemId": "169",
+    "problemTitle": "Majority Element",
+    "problemSlug": "majority-element",
+    "difficulty": "Easy",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "0 ms",
+    "memory": "28.1 MB",
+    "submissionId": "2121256549",
+    "timestamp": "1787774426",
+    "path": "Easy/0169_Majority_Element.cpp"
   }
 ]
