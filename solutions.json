@@ -505,5 +505,18 @@
     "submissionId": "2118609721",
     "timestamp": "1787585522",
     "path": "Easy/0506_Relative_Ranks.cpp"
+  },
+  {
+    "problemId": "3150",
+    "problemTitle": "Shortest and Lexicographically Smallest Beautiful String",
+    "problemSlug": "shortest-and-lexicographically-smallest-beautiful-string",
+    "difficulty": "Medium",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "3 ms",
+    "memory": "9.7 MB",
+    "submissionId": "2120947418",
+    "timestamp": "1787757299",
+    "path": "Medium/3150_Shortest_and_Lexicographically_Smallest_Beautiful_String.cpp"
   }
 ]
