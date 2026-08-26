@@ -544,5 +544,18 @@
     "submissionId": "2121262203",
     "timestamp": "1787774974",
     "path": "Medium/0075_Sort_Colors.cpp"
+  },
+  {
+    "problemId": "73",
+    "problemTitle": "Set Matrix Zeroes",
+    "problemSlug": "set-matrix-zeroes",
+    "difficulty": "Medium",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "N/A",
+    "memory": "N/A",
+    "submissionId": "2121271683",
+    "timestamp": "1787775954",
+    "path": "Medium/0073_Set_Matrix_Zeroes.cpp"
   }
 ]
