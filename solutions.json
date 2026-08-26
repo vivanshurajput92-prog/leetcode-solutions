@@ -552,10 +552,10 @@
     "difficulty": "Medium",
     "language": "C++",
     "extension": "cpp",
-    "runtime": "N/A",
-    "memory": "N/A",
-    "submissionId": "2121271683",
-    "timestamp": "1787775954",
+    "runtime": "22 ms",
+    "memory": "21.1 MB",
+    "submissionId": "2121272593",
+    "timestamp": "1787776058",
     "path": "Medium/0073_Set_Matrix_Zeroes.cpp"
   }
 ]
