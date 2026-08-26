@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 39
+Total Solved: 40
 
 ## Easy
 
@@ -41,6 +41,7 @@ Total Solved: 39
 - Build an Array With Stack Operations ([C++](Medium/1552_Build_an_Array_With_Stack_Operations.cpp))
 - Sum Game ([C++](Medium/2039_Sum_Game.cpp))
 - Stone Game IX ([C++](Medium/2156_Stone_Game_IX.cpp))
+- Shortest and Lexicographically Smallest Beautiful String ([C++](Medium/3150_Shortest_and_Lexicographically_Smallest_Beautiful_String.cpp))
 - Length of Longest Subarray With at Most K Frequency ([C++](Medium/3225_Length_of_Longest_Subarray_With_at_Most_K_Frequency.cpp))
 - Remove Methods From Project ([C++](Medium/3561_Remove_Methods_From_Project.cpp))
 - Longest Subsequence With Non-Zero Bitwise XOR ([C++](Medium/4033_Longest_Subsequence_With_Non-Zero_Bitwise_XOR.cpp))
@@ -55,7 +56,7 @@ Total Solved: 39
 | Difficulty | Count |
 |------------|--------|
 | Easy | 13 |
-| Medium | 25 |
+| Medium | 26 |
 | Hard | 1 |
 
 ---
