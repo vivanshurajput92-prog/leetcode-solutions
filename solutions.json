@@ -557,5 +557,18 @@
     "submissionId": "2121272593",
     "timestamp": "1787776058",
     "path": "Medium/0073_Set_Matrix_Zeroes.cpp"
+  },
+  {
+    "problemId": "4020",
+    "problemTitle": "Lexicographically Smallest Permutation Greater Than Target",
+    "problemSlug": "lexicographically-smallest-permutation-greater-than-target",
+    "difficulty": "Medium",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "0 ms",
+    "memory": "9.8 MB",
+    "submissionId": "2122245252",
+    "timestamp": "1787854569",
+    "path": "Medium/4020_Lexicographically_Smallest_Permutation_Greater_Than_Target.cpp"
   }
 ]
