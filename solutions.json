@@ -570,5 +570,18 @@
     "submissionId": "2122245252",
     "timestamp": "1787854569",
     "path": "Medium/4020_Lexicographically_Smallest_Permutation_Greater_Than_Target.cpp"
+  },
+  {
+    "problemId": "3219",
+    "problemTitle": "Make Lexicographically Smallest Array by Swapping Elements",
+    "problemSlug": "make-lexicographically-smallest-array-by-swapping-elements",
+    "difficulty": "Medium",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "629 ms",
+    "memory": "301.4 MB",
+    "submissionId": "2124265841",
+    "timestamp": "1788029382",
+    "path": "Medium/3219_Make_Lexicographically_Smallest_Array_by_Swapping_Elements.cpp"
   }
 ]
