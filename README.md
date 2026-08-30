@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 45
+Total Solved: 46
 
 ## Easy
 
@@ -44,6 +44,7 @@ Total Solved: 45
 - Build an Array With Stack Operations ([C++](Medium/1552_Build_an_Array_With_Stack_Operations.cpp))
 - Sum Game ([C++](Medium/2039_Sum_Game.cpp))
 - Stone Game IX ([C++](Medium/2156_Stone_Game_IX.cpp))
+- Removing Minimum and Maximum From Array ([C++](Medium/2212_Removing_Minimum_and_Maximum_From_Array.cpp))
 - Shortest and Lexicographically Smallest Beautiful String ([C++](Medium/3150_Shortest_and_Lexicographically_Smallest_Beautiful_String.cpp))
 - Make Lexicographically Smallest Array by Swapping Elements ([C++](Medium/3219_Make_Lexicographically_Smallest_Array_by_Swapping_Elements.cpp))
 - Length of Longest Subarray With at Most K Frequency ([C++](Medium/3225_Length_of_Longest_Subarray_With_at_Most_K_Frequency.cpp))
@@ -61,7 +62,7 @@ Total Solved: 45
 | Difficulty | Count |
 |------------|--------|
 | Easy | 14 |
-| Medium | 30 |
+| Medium | 31 |
 | Hard | 1 |
 
 ---
