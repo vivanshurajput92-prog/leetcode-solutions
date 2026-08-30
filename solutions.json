@@ -583,5 +583,18 @@
     "submissionId": "2124265841",
     "timestamp": "1788029382",
     "path": "Medium/3219_Make_Lexicographically_Smallest_Array_by_Swapping_Elements.cpp"
+  },
+  {
+    "problemId": "2212",
+    "problemTitle": "Removing Minimum and Maximum From Array",
+    "problemSlug": "removing-minimum-and-maximum-from-array",
+    "difficulty": "Medium",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "0 ms",
+    "memory": "92.2 MB",
+    "submissionId": "2125011227",
+    "timestamp": "1788092561",
+    "path": "Medium/2212_Removing_Minimum_and_Maximum_From_Array.cpp"
   }
 ]
