@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 47
+Total Solved: 48
 
 ## Easy
 
@@ -17,6 +17,7 @@ Total Solved: 47
 - Find the Largest Almost Missing Integer ([C++](Easy/3705_Find_the_Largest_Almost_Missing_Integer.cpp))
 - Check Divisibility by Digit Sum and Product ([C++](Easy/3918_Check_Divisibility_by_Digit_Sum_and_Product.cpp))
 - Find Missing Elements ([C++](Easy/4107_Find_Missing_Elements.cpp))
+- Construct Uniform Parity Array I ([C++](Easy/4256_Construct_Uniform_Parity_Array_I.cpp))
 - Maximize Pair Strength Using GCD ([C++](Easy/4371_Maximize_Pair_Strength_Using_GCD.cpp))
 
 ## Medium
@@ -62,7 +63,7 @@ Total Solved: 47
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 14 |
+| Easy | 15 |
 | Medium | 32 |
 | Hard | 1 |
 
