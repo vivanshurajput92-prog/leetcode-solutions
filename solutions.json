@@ -609,5 +609,18 @@
     "submissionId": "2126571806",
     "timestamp": "1788207319",
     "path": "Medium/2182_Find_the_Minimum_and_Maximum_Number_of_Nodes_Between_Critical_Points.cpp"
+  },
+  {
+    "problemId": "4256",
+    "problemTitle": "Construct Uniform Parity Array I",
+    "problemSlug": "construct-uniform-parity-array-i",
+    "difficulty": "Easy",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "0 ms",
+    "memory": "30.3 MB",
+    "submissionId": "2128505241",
+    "timestamp": "1788357524",
+    "path": "Easy/4256_Construct_Uniform_Parity_Array_I.cpp"
   }
 ]
