@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 48
+Total Solved: 49
 
 ## Easy
 
@@ -53,6 +53,7 @@ Total Solved: 48
 - Remove Methods From Project ([C++](Medium/3561_Remove_Methods_From_Project.cpp))
 - Lexicographically Smallest Permutation Greater Than Target ([C++](Medium/4020_Lexicographically_Smallest_Permutation_Greater_Than_Target.cpp))
 - Longest Subsequence With Non-Zero Bitwise XOR ([C++](Medium/4033_Longest_Subsequence_With_Non-Zero_Bitwise_XOR.cpp))
+- Construct Uniform Parity Array II ([C++](Medium/4258_Construct_Uniform_Parity_Array_II.cpp))
 - Count Subarrays With Even Odd Ratio I ([C++](Medium/4323_Count_Subarrays_With_Even_Odd_Ratio_I.cpp))
 
 ## Hard
@@ -64,7 +65,7 @@ Total Solved: 48
 | Difficulty | Count |
 |------------|--------|
 | Easy | 15 |
-| Medium | 32 |
+| Medium | 33 |
 | Hard | 1 |
 
 ---
