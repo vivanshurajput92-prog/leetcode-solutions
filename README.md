@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 49
+Total Solved: 50
 
 ## Easy
 
@@ -18,6 +18,7 @@ Total Solved: 49
 - Check Divisibility by Digit Sum and Product ([C++](Easy/3918_Check_Divisibility_by_Digit_Sum_and_Product.cpp))
 - Find Missing Elements ([C++](Easy/4107_Find_Missing_Elements.cpp))
 - Construct Uniform Parity Array I ([C++](Easy/4256_Construct_Uniform_Parity_Array_I.cpp))
+- Smallest Stable Index I ([C++](Easy/4284_Smallest_Stable_Index_I.cpp))
 - Maximize Pair Strength Using GCD ([C++](Easy/4371_Maximize_Pair_Strength_Using_GCD.cpp))
 
 ## Medium
@@ -64,7 +65,7 @@ Total Solved: 49
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 15 |
+| Easy | 16 |
 | Medium | 33 |
 | Hard | 1 |
 
