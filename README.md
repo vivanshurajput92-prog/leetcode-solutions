@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 51
+Total Solved: 52
 
 ## Easy
 
@@ -60,6 +60,7 @@ Total Solved: 51
 
 ## Hard
 
+- Distinct Subsequences ([C++](Hard/0115_Distinct_Subsequences.cpp))
 - Stone Game III ([C++](Hard/1522_Stone_Game_III.cpp))
 
 ## Statistics
@@ -68,7 +69,7 @@ Total Solved: 51
 |------------|--------|
 | Easy | 16 |
 | Medium | 34 |
-| Hard | 1 |
+| Hard | 2 |
 
 ---
 *README.md automatically updated by [LeetCelebrate](https://github.com/)*
