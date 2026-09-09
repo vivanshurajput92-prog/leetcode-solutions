@@ -687,5 +687,18 @@
     "submissionId": "2135453926",
     "timestamp": "1788888937",
     "path": "Easy/4245_Count_Commas_in_Range.cpp"
+  },
+  {
+    "problemId": "217",
+    "problemTitle": "Contains Duplicate",
+    "problemSlug": "contains-duplicate",
+    "difficulty": "Easy",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "32 ms",
+    "memory": "82.9 MB",
+    "submissionId": "2136795888",
+    "timestamp": "1788982092",
+    "path": "Easy/0217_Contains_Duplicate.cpp"
   }
 ]
