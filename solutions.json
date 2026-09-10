@@ -700,5 +700,18 @@
     "submissionId": "2136795888",
     "timestamp": "1788982092",
     "path": "Easy/0217_Contains_Duplicate.cpp"
+  },
+  {
+    "problemId": "2347",
+    "problemTitle": "Count Nodes Equal to Average of Subtree",
+    "problemSlug": "count-nodes-equal-to-average-of-subtree",
+    "difficulty": "Medium",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "0 ms",
+    "memory": "15.8 MB",
+    "submissionId": "2137251867",
+    "timestamp": "1789028239",
+    "path": "Medium/2347_Count_Nodes_Equal_to_Average_of_Subtree.cpp"
   }
 ]
