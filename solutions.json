@@ -713,5 +713,18 @@
     "submissionId": "2137251867",
     "timestamp": "1789028239",
     "path": "Medium/2347_Count_Nodes_Equal_to_Average_of_Subtree.cpp"
+  },
+  {
+    "problemId": "3799",
+    "problemTitle": "Unique 3-Digit Even Numbers",
+    "problemSlug": "unique-3-digit-even-numbers",
+    "difficulty": "Easy",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "3 ms",
+    "memory": "30.8 MB",
+    "submissionId": "2138909529",
+    "timestamp": "1789153863",
+    "path": "Easy/3799_Unique_3-Digit_Even_Numbers.cpp"
   }
 ]
