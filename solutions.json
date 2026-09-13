@@ -726,5 +726,18 @@
     "submissionId": "2138909529",
     "timestamp": "1789153863",
     "path": "Easy/3799_Unique_3-Digit_Even_Numbers.cpp"
+  },
+  {
+    "problemId": "864",
+    "problemTitle": "Image Overlap",
+    "problemSlug": "image-overlap",
+    "difficulty": "Medium",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "7 ms",
+    "memory": "13.8 MB",
+    "submissionId": "2141035835",
+    "timestamp": "1789336333",
+    "path": "Medium/0864_Image_Overlap.cpp"
   }
 ]
