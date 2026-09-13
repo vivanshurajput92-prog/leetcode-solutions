@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 56
+Total Solved: 57
 
 ## Easy
 
@@ -43,6 +43,7 @@ Total Solved: 56
 - Next Greater Element II ([C++](Medium/0503_Next_Greater_Element_II.cpp))
 - Maximum Length of Pair Chain ([C++](Medium/0646_Maximum_Length_of_Pair_Chain.cpp))
 - All Paths From Source to Target ([C++](Medium/0813_All_Paths_From_Source_to_Target.cpp))
+- Image Overlap ([C++](Medium/0864_Image_Overlap.cpp))
 - Stone Game ([C++](Medium/0909_Stone_Game.cpp))
 - Boats to Save People ([C++](Medium/0917_Boats_to_Save_People.cpp))
 - Cinema Seat Allocation ([C++](Medium/1487_Cinema_Seat_Allocation.cpp))
@@ -72,7 +73,7 @@ Total Solved: 56
 | Difficulty | Count |
 |------------|--------|
 | Easy | 19 |
-| Medium | 35 |
+| Medium | 36 |
 | Hard | 2 |
 
 ---
