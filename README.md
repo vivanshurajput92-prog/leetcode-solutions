@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 58
+Total Solved: 59
 
 ## Easy
 
@@ -9,6 +9,7 @@ Total Solved: 58
 - Majority Element ([C++](Easy/0169_Majority_Element.cpp))
 - Contains Duplicate ([C++](Easy/0217_Contains_Duplicate.cpp))
 - Implement Stack using Queues ([C++](Easy/0225_Implement_Stack_using_Queues.cpp))
+- Find All Numbers Disappeared in an Array ([C++](Easy/0448_Find_All_Numbers_Disappeared_in_an_Array.cpp))
 - Next Greater Element I ([C++](Easy/0496_Next_Greater_Element_I.cpp))
 - Relative Ranks ([C++](Easy/0506_Relative_Ranks.cpp))
 - Rectangle Overlap ([C++](Easy/0866_Rectangle_Overlap.cpp))
@@ -73,7 +74,7 @@ Total Solved: 58
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 20 |
+| Easy | 21 |
 | Medium | 36 |
 | Hard | 2 |
 
