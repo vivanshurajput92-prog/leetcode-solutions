@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 59
+Total Solved: 60
 
 ## Easy
 
@@ -19,6 +19,7 @@ Total Solved: 59
 - Smallest Divisible Digit Product I ([C++](Easy/3626_Smallest_Divisible_Digit_Product_I.cpp))
 - Find the Largest Almost Missing Integer ([C++](Easy/3705_Find_the_Largest_Almost_Missing_Integer.cpp))
 - Unique 3-Digit Even Numbers ([C++](Easy/3799_Unique_3-Digit_Even_Numbers.cpp))
+- Reverse Degree of a String ([C++](Easy/3811_Reverse_Degree_of_a_String.cpp))
 - Check Divisibility by Digit Sum and Product ([C++](Easy/3918_Check_Divisibility_by_Digit_Sum_and_Product.cpp))
 - Find Missing Elements ([C++](Easy/4107_Find_Missing_Elements.cpp))
 - Count Commas in Range ([C++](Easy/4245_Count_Commas_in_Range.cpp))
@@ -74,7 +75,7 @@ Total Solved: 59
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 21 |
+| Easy | 22 |
 | Medium | 36 |
 | Hard | 2 |
 
