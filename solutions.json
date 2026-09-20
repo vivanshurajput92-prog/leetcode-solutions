@@ -765,5 +765,18 @@
     "submissionId": "2146074036",
     "timestamp": "1789757823",
     "path": "Easy/0448_Find_All_Numbers_Disappeared_in_an_Array.cpp"
+  },
+  {
+    "problemId": "3811",
+    "problemTitle": "Reverse Degree of a String",
+    "problemSlug": "reverse-degree-of-a-string",
+    "difficulty": "Easy",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "0 ms",
+    "memory": "9.7 MB",
+    "submissionId": "2147577903",
+    "timestamp": "1789900015",
+    "path": "Easy/3811_Reverse_Degree_of_a_String.cpp"
   }
 ]
