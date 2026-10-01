@@ -825,10 +825,10 @@
     "difficulty": "Easy",
     "language": "C++",
     "extension": "cpp",
-    "runtime": "8 ms",
-    "memory": "36.3 MB",
-    "submissionId": "2159238390",
-    "timestamp": "1790861929",
+    "runtime": "0 ms",
+    "memory": "36.5 MB",
+    "submissionId": "2159250439",
+    "timestamp": "1790862746",
     "path": "Easy/4418_Number_of_Intersecting_Interval_Pairs_I.cpp"
   }
 ]
