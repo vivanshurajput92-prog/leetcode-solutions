@@ -791,5 +791,18 @@
     "submissionId": "2155883799",
     "timestamp": "1790593105",
     "path": "Easy/1737_Maximum_Nesting_Depth_of_the_Parentheses.cpp"
+  },
+  {
+    "problemId": "2",
+    "problemTitle": "Add Two Numbers",
+    "problemSlug": "add-two-numbers",
+    "difficulty": "Medium",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "3 ms",
+    "memory": "77 MB",
+    "submissionId": "2159163360",
+    "timestamp": "1790855870",
+    "path": "Medium/0002_Add_Two_Numbers.cpp"
   }
 ]
