@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 64
+Total Solved: 65
 
 ## Easy
 
@@ -69,6 +69,7 @@ Total Solved: 64
 - Construct Uniform Parity Array II ([C++](Medium/4258_Construct_Uniform_Parity_Array_II.cpp))
 - Smallest Stable Index II ([C++](Medium/4285_Smallest_Stable_Index_II.cpp))
 - Count Subarrays With Even Odd Ratio I ([C++](Medium/4323_Count_Subarrays_With_Even_Odd_Ratio_I.cpp))
+- Number of Intersecting Interval Pairs II ([C++](Medium/4417_Number_of_Intersecting_Interval_Pairs_II.cpp))
 
 ## Hard
 
@@ -80,7 +81,7 @@ Total Solved: 64
 | Difficulty | Count |
 |------------|--------|
 | Easy | 25 |
-| Medium | 37 |
+| Medium | 38 |
 | Hard | 2 |
 
 ---
