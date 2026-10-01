@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 61
+Total Solved: 62
 
 ## Easy
 
@@ -30,6 +30,7 @@ Total Solved: 61
 
 ## Medium
 
+- Add Two Numbers ([C++](Medium/0002_Add_Two_Numbers.cpp))
 - Combination Sum ([C++](Medium/0039_Combination_Sum.cpp))
 - Combination Sum II ([C++](Medium/0040_Combination_Sum_II.cpp))
 - Jump Game ([C++](Medium/0055_Jump_Game.cpp))
@@ -77,7 +78,7 @@ Total Solved: 61
 | Difficulty | Count |
 |------------|--------|
 | Easy | 23 |
-| Medium | 36 |
+| Medium | 37 |
 | Hard | 2 |
 
 ---
