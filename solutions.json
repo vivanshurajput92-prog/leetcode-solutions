@@ -817,5 +817,18 @@
     "submissionId": "2159234196",
     "timestamp": "1790861643",
     "path": "Easy/0020_Valid_Parentheses.cpp"
+  },
+  {
+    "problemId": "4418",
+    "problemTitle": "Number of Intersecting Interval Pairs I",
+    "problemSlug": "number-of-intersecting-interval-pairs-i",
+    "difficulty": "Easy",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "8 ms",
+    "memory": "36.3 MB",
+    "submissionId": "2159238390",
+    "timestamp": "1790861929",
+    "path": "Easy/4418_Number_of_Intersecting_Interval_Pairs_I.cpp"
   }
 ]
