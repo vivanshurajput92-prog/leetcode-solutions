@@ -1,9 +1,10 @@
 # LeetCode Solutions
 
-Total Solved: 62
+Total Solved: 63
 
 ## Easy
 
+- Valid Parentheses ([C++](Easy/0020_Valid_Parentheses.cpp))
 - Convert Sorted Array to Binary Search Tree ([C++](Easy/0108_Convert_Sorted_Array_to_Binary_Search_Tree.cpp))
 - Path Sum ([C++](Easy/0112_Path_Sum.cpp))
 - Majority Element ([C++](Easy/0169_Majority_Element.cpp))
@@ -77,7 +78,7 @@ Total Solved: 62
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 23 |
+| Easy | 24 |
 | Medium | 37 |
 | Hard | 2 |
 
