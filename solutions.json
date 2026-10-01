@@ -804,5 +804,18 @@
     "submissionId": "2159163360",
     "timestamp": "1790855870",
     "path": "Medium/0002_Add_Two_Numbers.cpp"
+  },
+  {
+    "problemId": "20",
+    "problemTitle": "Valid Parentheses",
+    "problemSlug": "valid-parentheses",
+    "difficulty": "Easy",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "0 ms",
+    "memory": "8.9 MB",
+    "submissionId": "2159234196",
+    "timestamp": "1790861643",
+    "path": "Easy/0020_Valid_Parentheses.cpp"
   }
 ]
