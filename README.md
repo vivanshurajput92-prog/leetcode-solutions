@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 63
+Total Solved: 64
 
 ## Easy
 
@@ -28,6 +28,7 @@ Total Solved: 63
 - Construct Uniform Parity Array I ([C++](Easy/4256_Construct_Uniform_Parity_Array_I.cpp))
 - Smallest Stable Index I ([C++](Easy/4284_Smallest_Stable_Index_I.cpp))
 - Maximize Pair Strength Using GCD ([C++](Easy/4371_Maximize_Pair_Strength_Using_GCD.cpp))
+- Number of Intersecting Interval Pairs I ([C++](Easy/4418_Number_of_Intersecting_Interval_Pairs_I.cpp))
 
 ## Medium
 
@@ -78,7 +79,7 @@ Total Solved: 63
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 24 |
+| Easy | 25 |
 | Medium | 37 |
 | Hard | 2 |
 
