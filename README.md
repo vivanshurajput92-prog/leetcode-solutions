@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 65
+Total Solved: 66
 
 ## Easy
 
@@ -33,6 +33,7 @@ Total Solved: 65
 ## Medium
 
 - Add Two Numbers ([C++](Medium/0002_Add_Two_Numbers.cpp))
+- Generate Parentheses ([C++](Medium/0022_Generate_Parentheses.cpp))
 - Combination Sum ([C++](Medium/0039_Combination_Sum.cpp))
 - Combination Sum II ([C++](Medium/0040_Combination_Sum_II.cpp))
 - Jump Game ([C++](Medium/0055_Jump_Game.cpp))
@@ -81,7 +82,7 @@ Total Solved: 65
 | Difficulty | Count |
 |------------|--------|
 | Easy | 25 |
-| Medium | 38 |
+| Medium | 39 |
 | Hard | 2 |
 
 ---
