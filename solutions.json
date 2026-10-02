@@ -843,5 +843,18 @@
     "submissionId": "2159252541",
     "timestamp": "1790862887",
     "path": "Medium/4417_Number_of_Intersecting_Interval_Pairs_II.cpp"
+  },
+  {
+    "problemId": "22",
+    "problemTitle": "Generate Parentheses",
+    "problemSlug": "generate-parentheses",
+    "difficulty": "Medium",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "3 ms",
+    "memory": "15.7 MB",
+    "submissionId": "2160102806",
+    "timestamp": "1790942032",
+    "path": "Medium/0022_Generate_Parentheses.cpp"
   }
 ]
