@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 66
+Total Solved: 67
 
 ## Easy
 
@@ -74,6 +74,7 @@ Total Solved: 66
 
 ## Hard
 
+- Longest Valid Parentheses ([C++](Hard/0032_Longest_Valid_Parentheses.cpp))
 - Distinct Subsequences ([C++](Hard/0115_Distinct_Subsequences.cpp))
 - Stone Game III ([C++](Hard/1522_Stone_Game_III.cpp))
 
@@ -83,7 +84,7 @@ Total Solved: 66
 |------------|--------|
 | Easy | 25 |
 | Medium | 39 |
-| Hard | 2 |
+| Hard | 3 |
 
 ---
 *README.md automatically updated by [LeetCelebrate](https://github.com/)*
