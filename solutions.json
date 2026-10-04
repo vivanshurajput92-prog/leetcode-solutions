@@ -869,5 +869,18 @@
     "submissionId": "2161269341",
     "timestamp": "1791045453",
     "path": "Hard/0032_Longest_Valid_Parentheses.cpp"
+  },
+  {
+    "problemId": "678",
+    "problemTitle": "Valid Parenthesis String",
+    "problemSlug": "valid-parenthesis-string",
+    "difficulty": "Medium",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "2 ms",
+    "memory": "10.7 MB",
+    "submissionId": "2161999479",
+    "timestamp": "1791110411",
+    "path": "Medium/0678_Valid_Parenthesis_String.cpp"
   }
 ]
