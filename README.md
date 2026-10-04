@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 67
+Total Solved: 68
 
 ## Easy
 
@@ -50,6 +50,7 @@ Total Solved: 67
 - Predict the Winner ([C++](Medium/0486_Predict_the_Winner.cpp))
 - Next Greater Element II ([C++](Medium/0503_Next_Greater_Element_II.cpp))
 - Maximum Length of Pair Chain ([C++](Medium/0646_Maximum_Length_of_Pair_Chain.cpp))
+- Valid Parenthesis String ([C++](Medium/0678_Valid_Parenthesis_String.cpp))
 - All Paths From Source to Target ([C++](Medium/0813_All_Paths_From_Source_to_Target.cpp))
 - Image Overlap ([C++](Medium/0864_Image_Overlap.cpp))
 - Stone Game ([C++](Medium/0909_Stone_Game.cpp))
@@ -83,7 +84,7 @@ Total Solved: 67
 | Difficulty | Count |
 |------------|--------|
 | Easy | 25 |
-| Medium | 39 |
+| Medium | 40 |
 | Hard | 3 |
 
 ---
