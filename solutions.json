@@ -882,5 +882,18 @@
     "submissionId": "2162009451",
     "timestamp": "1791111179",
     "path": "Medium/0678_Valid_Parenthesis_String.cpp"
+  },
+  {
+    "problemId": "881",
+    "problemTitle": "Loud and Rich",
+    "problemSlug": "loud-and-rich",
+    "difficulty": "Medium",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "73 ms",
+    "memory": "65.2 MB",
+    "submissionId": "2162408151",
+    "timestamp": "1791137013",
+    "path": "Medium/0881_Loud_and_Rich.cpp"
   }
 ]
