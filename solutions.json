@@ -877,10 +877,10 @@
     "difficulty": "Medium",
     "language": "C++",
     "extension": "cpp",
-    "runtime": "2 ms",
-    "memory": "10.7 MB",
-    "submissionId": "2161999479",
-    "timestamp": "1791110411",
+    "runtime": "0 ms",
+    "memory": "8.1 MB",
+    "submissionId": "2162009451",
+    "timestamp": "1791111179",
     "path": "Medium/0678_Valid_Parenthesis_String.cpp"
   }
 ]
