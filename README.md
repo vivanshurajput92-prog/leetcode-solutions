@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 68
+Total Solved: 69
 
 ## Easy
 
@@ -53,6 +53,7 @@ Total Solved: 68
 - Valid Parenthesis String ([C++](Medium/0678_Valid_Parenthesis_String.cpp))
 - All Paths From Source to Target ([C++](Medium/0813_All_Paths_From_Source_to_Target.cpp))
 - Image Overlap ([C++](Medium/0864_Image_Overlap.cpp))
+- Loud and Rich ([C++](Medium/0881_Loud_and_Rich.cpp))
 - Stone Game ([C++](Medium/0909_Stone_Game.cpp))
 - Boats to Save People ([C++](Medium/0917_Boats_to_Save_People.cpp))
 - Cinema Seat Allocation ([C++](Medium/1487_Cinema_Seat_Allocation.cpp))
@@ -84,7 +85,7 @@ Total Solved: 68
 | Difficulty | Count |
 |------------|--------|
 | Easy | 25 |
-| Medium | 40 |
+| Medium | 41 |
 | Hard | 3 |
 
 ---
