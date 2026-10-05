@@ -895,5 +895,18 @@
     "submissionId": "2162408151",
     "timestamp": "1791137013",
     "path": "Medium/0881_Loud_and_Rich.cpp"
+  },
+  {
+    "problemId": "566",
+    "problemTitle": "Reshape the Matrix",
+    "problemSlug": "reshape-the-matrix",
+    "difficulty": "Easy",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "0 ms",
+    "memory": "15.2 MB",
+    "submissionId": "2163551439",
+    "timestamp": "1791228836",
+    "path": "Easy/0566_Reshape_the_Matrix.cpp"
   }
 ]
