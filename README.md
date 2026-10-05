@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 69
+Total Solved: 70
 
 ## Easy
 
@@ -13,6 +13,7 @@ Total Solved: 69
 - Find All Numbers Disappeared in an Array ([C++](Easy/0448_Find_All_Numbers_Disappeared_in_an_Array.cpp))
 - Next Greater Element I ([C++](Easy/0496_Next_Greater_Element_I.cpp))
 - Relative Ranks ([C++](Easy/0506_Relative_Ranks.cpp))
+- Reshape the Matrix ([C++](Easy/0566_Reshape_the_Matrix.cpp))
 - Rectangle Overlap ([C++](Easy/0866_Rectangle_Overlap.cpp))
 - Replace Elements with Greatest Element on Right Side ([C++](Easy/1231_Replace_Elements_with_Greatest_Element_on_Right_Side.cpp))
 - Maximum Nesting Depth of the Parentheses ([C++](Easy/1737_Maximum_Nesting_Depth_of_the_Parentheses.cpp))
@@ -84,7 +85,7 @@ Total Solved: 69
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 25 |
+| Easy | 26 |
 | Medium | 41 |
 | Hard | 3 |
 
