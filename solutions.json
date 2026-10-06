@@ -947,5 +947,18 @@
     "submissionId": "2164302078",
     "timestamp": "1791295487",
     "path": "Medium/0096_Unique_Binary_Search_Trees.cpp"
+  },
+  {
+    "problemId": "329",
+    "problemTitle": "Longest Increasing Path in a Matrix",
+    "problemSlug": "longest-increasing-path-in-a-matrix",
+    "difficulty": "Hard",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "18 ms",
+    "memory": "21 MB",
+    "submissionId": "2164646484",
+    "timestamp": "1791313751",
+    "path": "Hard/0329_Longest_Increasing_Path_in_a_Matrix.cpp"
   }
 ]
