@@ -934,5 +934,18 @@
     "submissionId": "2164064995",
     "timestamp": "1791278541",
     "path": "Medium/0091_Decode_Ways.cpp"
+  },
+  {
+    "problemId": "96",
+    "problemTitle": "Unique Binary Search Trees",
+    "problemSlug": "unique-binary-search-trees",
+    "difficulty": "Medium",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "0 ms",
+    "memory": "8.1 MB",
+    "submissionId": "2164302078",
+    "timestamp": "1791295487",
+    "path": "Medium/0096_Unique_Binary_Search_Trees.cpp"
   }
 ]
