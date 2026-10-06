@@ -4,14 +4,14 @@
  * Difficulty: Medium
  * Language: C++
  * Runtime: 0 ms
- * Memory: 8.3 MB
+ * Memory: 8.4 MB
  * Synced From: LeetCode
  * Date: 2026-10-06
  */
 
 class Solution {
 public:
-    int minAddToMakeValid(string s) {
+    int minAddToMakeValid(string &s) {
         int n = s.length();
         int ans = 0;
         int openCount = 0;
