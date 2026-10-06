@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 72
+Total Solved: 73
 
 ## Easy
 
@@ -43,6 +43,7 @@ Total Solved: 72
 - Sort Colors ([C++](Medium/0075_Sort_Colors.cpp))
 - Subsets II ([C++](Medium/0090_Subsets_II.cpp))
 - Decode Ways ([C++](Medium/0091_Decode_Ways.cpp))
+- Unique Binary Search Trees ([C++](Medium/0096_Unique_Binary_Search_Trees.cpp))
 - Path Sum II ([C++](Medium/0113_Path_Sum_II.cpp))
 - Min Stack ([C++](Medium/0155_Min_Stack.cpp))
 - Product of Array Except Self ([C++](Medium/0238_Product_of_Array_Except_Self.cpp))
@@ -88,7 +89,7 @@ Total Solved: 72
 | Difficulty | Count |
 |------------|--------|
 | Easy | 26 |
-| Medium | 43 |
+| Medium | 44 |
 | Hard | 3 |
 
 ---
