@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 70
+Total Solved: 71
 
 ## Easy
 
@@ -57,6 +57,7 @@ Total Solved: 70
 - Loud and Rich ([C++](Medium/0881_Loud_and_Rich.cpp))
 - Stone Game ([C++](Medium/0909_Stone_Game.cpp))
 - Boats to Save People ([C++](Medium/0917_Boats_to_Save_People.cpp))
+- Minimum Add to Make Parentheses Valid ([C++](Medium/0957_Minimum_Add_to_Make_Parentheses_Valid.cpp))
 - Cinema Seat Allocation ([C++](Medium/1487_Cinema_Seat_Allocation.cpp))
 - Build an Array With Stack Operations ([C++](Medium/1552_Build_an_Array_With_Stack_Operations.cpp))
 - Sum Game ([C++](Medium/2039_Sum_Game.cpp))
@@ -86,7 +87,7 @@ Total Solved: 70
 | Difficulty | Count |
 |------------|--------|
 | Easy | 26 |
-| Medium | 41 |
+| Medium | 42 |
 | Hard | 3 |
 
 ---
