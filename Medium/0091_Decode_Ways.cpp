@@ -4,7 +4,7 @@
  * Difficulty: Medium
  * Language: C++
  * Runtime: 0 ms
- * Memory: 8.5 MB
+ * Memory: 8.7 MB
  * Synced From: LeetCode
  * Date: 2026-10-06
  */
@@ -12,7 +12,7 @@
 class Solution {
 private:
     int f(int i,string &s,vector<int> &dp){
-        if(i >= s.length()) return 1;
+        if(i == s.length()) return 1;
         if(s[i] == '0') return 0;
         if(dp[i] != -1) return dp[i];
         int ways = f(i+1,s,dp);
