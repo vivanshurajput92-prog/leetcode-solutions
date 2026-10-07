@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 74
+Total Solved: 75
 
 ## Easy
 
@@ -82,6 +82,7 @@ Total Solved: 74
 
 - Longest Valid Parentheses ([C++](Hard/0032_Longest_Valid_Parentheses.cpp))
 - Distinct Subsequences ([C++](Hard/0115_Distinct_Subsequences.cpp))
+- Remove Invalid Parentheses ([C++](Hard/0301_Remove_Invalid_Parentheses.cpp))
 - Longest Increasing Path in a Matrix ([C++](Hard/0329_Longest_Increasing_Path_in_a_Matrix.cpp))
 - Stone Game III ([C++](Hard/1522_Stone_Game_III.cpp))
 
@@ -91,7 +92,7 @@ Total Solved: 74
 |------------|--------|
 | Easy | 26 |
 | Medium | 44 |
-| Hard | 4 |
+| Hard | 5 |
 
 ---
 *README.md automatically updated by [LeetCelebrate](https://github.com/)*
