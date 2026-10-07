@@ -960,5 +960,18 @@
     "submissionId": "2164646484",
     "timestamp": "1791313751",
     "path": "Hard/0329_Longest_Increasing_Path_in_a_Matrix.cpp"
+  },
+  {
+    "problemId": "301",
+    "problemTitle": "Remove Invalid Parentheses",
+    "problemSlug": "remove-invalid-parentheses",
+    "difficulty": "Hard",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "173 ms",
+    "memory": "11.6 MB",
+    "submissionId": "2165411556",
+    "timestamp": "1791385346",
+    "path": "Hard/0301_Remove_Invalid_Parentheses.cpp"
   }
 ]
