@@ -973,5 +973,18 @@
     "submissionId": "2165411556",
     "timestamp": "1791385346",
     "path": "Hard/0301_Remove_Invalid_Parentheses.cpp"
+  },
+  {
+    "problemId": "47",
+    "problemTitle": "Permutations II",
+    "problemSlug": "permutations-ii",
+    "difficulty": "Medium",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "171 ms",
+    "memory": "34.7 MB",
+    "submissionId": "2165545170",
+    "timestamp": "1791392618",
+    "path": "Medium/0047_Permutations_II.cpp"
   }
 ]
