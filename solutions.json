@@ -986,5 +986,18 @@
     "submissionId": "2165545170",
     "timestamp": "1791392618",
     "path": "Medium/0047_Permutations_II.cpp"
+  },
+  {
+    "problemId": "79",
+    "problemTitle": "Word Search",
+    "problemSlug": "word-search",
+    "difficulty": "Medium",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "270 ms",
+    "memory": "10.8 MB",
+    "submissionId": "2165584497",
+    "timestamp": "1791394525",
+    "path": "Medium/0079_Word_Search.cpp"
   }
 ]
