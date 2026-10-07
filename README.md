@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 75
+Total Solved: 76
 
 ## Easy
 
@@ -37,6 +37,7 @@ Total Solved: 75
 - Generate Parentheses ([C++](Medium/0022_Generate_Parentheses.cpp))
 - Combination Sum ([C++](Medium/0039_Combination_Sum.cpp))
 - Combination Sum II ([C++](Medium/0040_Combination_Sum_II.cpp))
+- Permutations II ([C++](Medium/0047_Permutations_II.cpp))
 - Jump Game ([C++](Medium/0055_Jump_Game.cpp))
 - Set Matrix Zeroes ([C++](Medium/0073_Set_Matrix_Zeroes.cpp))
 - Search a 2D Matrix ([C++](Medium/0074_Search_a_2D_Matrix.cpp))
@@ -91,7 +92,7 @@ Total Solved: 75
 | Difficulty | Count |
 |------------|--------|
 | Easy | 26 |
-| Medium | 44 |
+| Medium | 45 |
 | Hard | 5 |
 
 ---
