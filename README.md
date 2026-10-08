@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 78
+Total Solved: 79
 
 ## Easy
 
@@ -43,6 +43,7 @@ Total Solved: 78
 - Set Matrix Zeroes ([C++](Medium/0073_Set_Matrix_Zeroes.cpp))
 - Search a 2D Matrix ([C++](Medium/0074_Search_a_2D_Matrix.cpp))
 - Sort Colors ([C++](Medium/0075_Sort_Colors.cpp))
+- Combinations ([C++](Medium/0077_Combinations.cpp))
 - Word Search ([C++](Medium/0079_Word_Search.cpp))
 - Subsets II ([C++](Medium/0090_Subsets_II.cpp))
 - Decode Ways ([C++](Medium/0091_Decode_Ways.cpp))
@@ -94,7 +95,7 @@ Total Solved: 78
 | Difficulty | Count |
 |------------|--------|
 | Easy | 27 |
-| Medium | 46 |
+| Medium | 47 |
 | Hard | 5 |
 
 ---
