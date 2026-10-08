@@ -1012,5 +1012,18 @@
     "submissionId": "2166083577",
     "timestamp": "1791444375",
     "path": "Easy/1078_Remove_Outermost_Parentheses.cpp"
+  },
+  {
+    "problemId": "77",
+    "problemTitle": "Combinations",
+    "problemSlug": "combinations",
+    "difficulty": "Medium",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "75 ms",
+    "memory": "82.4 MB",
+    "submissionId": "2166098025",
+    "timestamp": "1791445652",
+    "path": "Medium/0077_Combinations.cpp"
   }
 ]
