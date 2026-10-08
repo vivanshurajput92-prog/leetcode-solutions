@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 77
+Total Solved: 78
 
 ## Easy
 
@@ -15,6 +15,7 @@ Total Solved: 77
 - Relative Ranks ([C++](Easy/0506_Relative_Ranks.cpp))
 - Reshape the Matrix ([C++](Easy/0566_Reshape_the_Matrix.cpp))
 - Rectangle Overlap ([C++](Easy/0866_Rectangle_Overlap.cpp))
+- Remove Outermost Parentheses ([C++](Easy/1078_Remove_Outermost_Parentheses.cpp))
 - Replace Elements with Greatest Element on Right Side ([C++](Easy/1231_Replace_Elements_with_Greatest_Element_on_Right_Side.cpp))
 - Maximum Nesting Depth of the Parentheses ([C++](Easy/1737_Maximum_Nesting_Depth_of_the_Parentheses.cpp))
 - Smallest Missing Integer Greater Than Sequential Prefix Sum ([C++](Easy/3236_Smallest_Missing_Integer_Greater_Than_Sequential_Prefix_Sum.cpp))
@@ -92,7 +93,7 @@ Total Solved: 77
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 26 |
+| Easy | 27 |
 | Medium | 46 |
 | Hard | 5 |
 
