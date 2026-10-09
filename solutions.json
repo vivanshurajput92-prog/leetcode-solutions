@@ -1025,5 +1025,18 @@
     "submissionId": "2166098025",
     "timestamp": "1791445652",
     "path": "Medium/0077_Combinations.cpp"
+  },
+  {
+    "problemId": "1648",
+    "problemTitle": "Minimum Insertions to Balance a Parentheses String",
+    "problemSlug": "minimum-insertions-to-balance-a-parentheses-string",
+    "difficulty": "Medium",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "0 ms",
+    "memory": "15.5 MB",
+    "submissionId": "2167145525",
+    "timestamp": "1791537639",
+    "path": "Medium/1648_Minimum_Insertions_to_Balance_a_Parentheses_String.cpp"
   }
 ]
