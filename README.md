@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 80
+Total Solved: 81
 
 ## Easy
 
@@ -89,6 +89,7 @@ Total Solved: 80
 - Distinct Subsequences ([C++](Hard/0115_Distinct_Subsequences.cpp))
 - Remove Invalid Parentheses ([C++](Hard/0301_Remove_Invalid_Parentheses.cpp))
 - Longest Increasing Path in a Matrix ([C++](Hard/0329_Longest_Increasing_Path_in_a_Matrix.cpp))
+- Number of Squareful Arrays ([C++](Hard/1038_Number_of_Squareful_Arrays.cpp))
 - Stone Game III ([C++](Hard/1522_Stone_Game_III.cpp))
 
 ## Statistics
@@ -97,7 +98,7 @@ Total Solved: 80
 |------------|--------|
 | Easy | 27 |
 | Medium | 48 |
-| Hard | 5 |
+| Hard | 6 |
 
 ---
 *README.md automatically updated by [LeetCelebrate](https://github.com/)*
