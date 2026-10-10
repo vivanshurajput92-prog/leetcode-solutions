@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 81
+Total Solved: 82
 
 ## Easy
 
@@ -72,6 +72,7 @@ Total Solved: 81
 - Find the Minimum and Maximum Number of Nodes Between Critical Points ([C++](Medium/2182_Find_the_Minimum_and_Maximum_Number_of_Nodes_Between_Critical_Points.cpp))
 - Removing Minimum and Maximum From Array ([C++](Medium/2212_Removing_Minimum_and_Maximum_From_Array.cpp))
 - Count Nodes Equal to Average of Subtree ([C++](Medium/2347_Count_Nodes_Equal_to_Average_of_Subtree.cpp))
+- Minimum Sum of Squared Difference ([C++](Medium/2418_Minimum_Sum_of_Squared_Difference.cpp))
 - Shortest and Lexicographically Smallest Beautiful String ([C++](Medium/3150_Shortest_and_Lexicographically_Smallest_Beautiful_String.cpp))
 - Make Lexicographically Smallest Array by Swapping Elements ([C++](Medium/3219_Make_Lexicographically_Smallest_Array_by_Swapping_Elements.cpp))
 - Length of Longest Subarray With at Most K Frequency ([C++](Medium/3225_Length_of_Longest_Subarray_With_at_Most_K_Frequency.cpp))
@@ -97,7 +98,7 @@ Total Solved: 81
 | Difficulty | Count |
 |------------|--------|
 | Easy | 27 |
-| Medium | 48 |
+| Medium | 49 |
 | Hard | 6 |
 
 ---
