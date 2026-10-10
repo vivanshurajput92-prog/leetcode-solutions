@@ -1051,5 +1051,18 @@
     "submissionId": "2167403678",
     "timestamp": "1791559030",
     "path": "Hard/1038_Number_of_Squareful_Arrays.cpp"
+  },
+  {
+    "problemId": "2418",
+    "problemTitle": "Minimum Sum of Squared Difference",
+    "problemSlug": "minimum-sum-of-squared-difference",
+    "difficulty": "Medium",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "9 ms",
+    "memory": "136.4 MB",
+    "submissionId": "2168648991",
+    "timestamp": "1791667175",
+    "path": "Medium/2418_Minimum_Sum_of_Squared_Difference.cpp"
   }
 ]
