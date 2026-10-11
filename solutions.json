@@ -1064,5 +1064,18 @@
     "submissionId": "2168648991",
     "timestamp": "1791667175",
     "path": "Medium/2418_Minimum_Sum_of_Squared_Difference.cpp"
+  },
+  {
+    "problemId": "2844",
+    "problemTitle": "Sum of Squares of Special Elements ",
+    "problemSlug": "sum-of-squares-of-special-elements",
+    "difficulty": "Easy",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "0 ms",
+    "memory": "40.1 MB",
+    "submissionId": "2169104271",
+    "timestamp": "1791709470",
+    "path": "Easy/2844_Sum_of_Squares_of_Special_Elements_.cpp"
   }
 ]
