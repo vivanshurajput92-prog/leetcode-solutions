@@ -1090,5 +1090,18 @@
     "submissionId": "2170445327",
     "timestamp": "1791826076",
     "path": "Hard/3153_Apply_Operations_on_Array_to_Maximize_Sum_of_Squares.cpp"
+  },
+  {
+    "problemId": "741",
+    "problemTitle": "Cherry Pickup",
+    "problemSlug": "cherry-pickup",
+    "difficulty": "Hard",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "56 ms",
+    "memory": "36.3 MB",
+    "submissionId": "2170610778",
+    "timestamp": "1791838847",
+    "path": "Hard/0741_Cherry_Pickup.cpp"
   }
 ]
