@@ -1103,5 +1103,18 @@
     "submissionId": "2170610778",
     "timestamp": "1791838847",
     "path": "Hard/0741_Cherry_Pickup.cpp"
+  },
+  {
+    "problemId": "1559",
+    "problemTitle": "Cherry Pickup II",
+    "problemSlug": "cherry-pickup-ii",
+    "difficulty": "Hard",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "82 ms",
+    "memory": "21.1 MB",
+    "submissionId": "2170626287",
+    "timestamp": "1791841399",
+    "path": "Hard/1559_Cherry_Pickup_II.cpp"
   }
 ]
