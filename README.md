@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 85
+Total Solved: 86
 
 ## Easy
 
@@ -94,6 +94,7 @@ Total Solved: 85
 - Cherry Pickup ([C++](Hard/0741_Cherry_Pickup.cpp))
 - Number of Squareful Arrays ([C++](Hard/1038_Number_of_Squareful_Arrays.cpp))
 - Stone Game III ([C++](Hard/1522_Stone_Game_III.cpp))
+- Cherry Pickup II ([C++](Hard/1559_Cherry_Pickup_II.cpp))
 - Apply Operations on Array to Maximize Sum of Squares ([C++](Hard/3153_Apply_Operations_on_Array_to_Maximize_Sum_of_Squares.cpp))
 
 ## Statistics
@@ -102,7 +103,7 @@ Total Solved: 85
 |------------|--------|
 | Easy | 28 |
 | Medium | 49 |
-| Hard | 8 |
+| Hard | 9 |
 
 ---
 *README.md automatically updated by [LeetCelebrate](https://github.com/)*
