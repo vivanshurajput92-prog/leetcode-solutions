@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 88
+Total Solved: 89
 
 ## Easy
 
@@ -51,6 +51,7 @@ Total Solved: 88
 - Unique Binary Search Trees ([C++](Medium/0096_Unique_Binary_Search_Trees.cpp))
 - Path Sum II ([C++](Medium/0113_Path_Sum_II.cpp))
 - Min Stack ([C++](Medium/0155_Min_Stack.cpp))
+- Repeated DNA Sequences ([C++](Medium/0187_Repeated_DNA_Sequences.cpp))
 - Product of Array Except Self ([C++](Medium/0238_Product_of_Array_Except_Self.cpp))
 - House Robber III ([C++](Medium/0337_House_Robber_III.cpp))
 - Wiggle Subsequence ([C++](Medium/0376_Wiggle_Subsequence.cpp))
@@ -104,7 +105,7 @@ Total Solved: 88
 | Difficulty | Count |
 |------------|--------|
 | Easy | 28 |
-| Medium | 51 |
+| Medium | 52 |
 | Hard | 9 |
 
 ---
