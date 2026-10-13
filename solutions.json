@@ -1142,5 +1142,18 @@
     "submissionId": "2171275388",
     "timestamp": "1791902640",
     "path": "Medium/3490_Find_the_Maximum_Length_of_Valid_Subsequence_I.cpp"
+  },
+  {
+    "problemId": "187",
+    "problemTitle": "Repeated DNA Sequences",
+    "problemSlug": "repeated-dna-sequences",
+    "difficulty": "Medium",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "1310 ms",
+    "memory": "451.1 MB",
+    "submissionId": "2171398995",
+    "timestamp": "1791910336",
+    "path": "Medium/0187_Repeated_DNA_Sequences.cpp"
   }
 ]
