@@ -1116,5 +1116,18 @@
     "submissionId": "2170634877",
     "timestamp": "1791843045",
     "path": "Hard/1559_Cherry_Pickup_II.cpp"
+  },
+  {
+    "problemId": "4078",
+    "problemTitle": "Maximum Alternating Sum of Squares",
+    "problemSlug": "maximum-alternating-sum-of-squares",
+    "difficulty": "Medium",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "46 ms",
+    "memory": "176.1 MB",
+    "submissionId": "2171251609",
+    "timestamp": "1791901091",
+    "path": "Medium/4078_Maximum_Alternating_Sum_of_Squares.cpp"
   }
 ]
