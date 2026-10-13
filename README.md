@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 87
+Total Solved: 88
 
 ## Easy
 
@@ -77,6 +77,7 @@ Total Solved: 87
 - Shortest and Lexicographically Smallest Beautiful String ([C++](Medium/3150_Shortest_and_Lexicographically_Smallest_Beautiful_String.cpp))
 - Make Lexicographically Smallest Array by Swapping Elements ([C++](Medium/3219_Make_Lexicographically_Smallest_Array_by_Swapping_Elements.cpp))
 - Length of Longest Subarray With at Most K Frequency ([C++](Medium/3225_Length_of_Longest_Subarray_With_at_Most_K_Frequency.cpp))
+- Find the Maximum Length of Valid Subsequence I ([C++](Medium/3490_Find_the_Maximum_Length_of_Valid_Subsequence_I.cpp))
 - Remove Methods From Project ([C++](Medium/3561_Remove_Methods_From_Project.cpp))
 - Lexicographically Smallest Permutation Greater Than Target ([C++](Medium/4020_Lexicographically_Smallest_Permutation_Greater_Than_Target.cpp))
 - Longest Subsequence With Non-Zero Bitwise XOR ([C++](Medium/4033_Longest_Subsequence_With_Non-Zero_Bitwise_XOR.cpp))
@@ -103,7 +104,7 @@ Total Solved: 87
 | Difficulty | Count |
 |------------|--------|
 | Easy | 28 |
-| Medium | 50 |
+| Medium | 51 |
 | Hard | 9 |
 
 ---
