@@ -1129,5 +1129,18 @@
     "submissionId": "2171251609",
     "timestamp": "1791901091",
     "path": "Medium/4078_Maximum_Alternating_Sum_of_Squares.cpp"
+  },
+  {
+    "problemId": "3490",
+    "problemTitle": "Find the Maximum Length of Valid Subsequence I",
+    "problemSlug": "find-the-maximum-length-of-valid-subsequence-i",
+    "difficulty": "Medium",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "338 ms",
+    "memory": "210.9 MB",
+    "submissionId": "2171275388",
+    "timestamp": "1791902640",
+    "path": "Medium/3490_Find_the_Maximum_Length_of_Valid_Subsequence_I.cpp"
   }
 ]
