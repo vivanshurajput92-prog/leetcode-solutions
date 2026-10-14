@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 89
+Total Solved: 90
 
 ## Easy
 
@@ -83,6 +83,7 @@ Total Solved: 89
 - Lexicographically Smallest Permutation Greater Than Target ([C++](Medium/4020_Lexicographically_Smallest_Permutation_Greater_Than_Target.cpp))
 - Longest Subsequence With Non-Zero Bitwise XOR ([C++](Medium/4033_Longest_Subsequence_With_Non-Zero_Bitwise_XOR.cpp))
 - Maximum Alternating Sum of Squares ([C++](Medium/4078_Maximum_Alternating_Sum_of_Squares.cpp))
+- Maximize Sum of Squares of Digits ([C++](Medium/4084_Maximize_Sum_of_Squares_of_Digits.cpp))
 - Construct Uniform Parity Array II ([C++](Medium/4258_Construct_Uniform_Parity_Array_II.cpp))
 - Smallest Stable Index II ([C++](Medium/4285_Smallest_Stable_Index_II.cpp))
 - Count Subarrays With Even Odd Ratio I ([C++](Medium/4323_Count_Subarrays_With_Even_Odd_Ratio_I.cpp))
@@ -105,7 +106,7 @@ Total Solved: 89
 | Difficulty | Count |
 |------------|--------|
 | Easy | 28 |
-| Medium | 52 |
+| Medium | 53 |
 | Hard | 9 |
 
 ---
