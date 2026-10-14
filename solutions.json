@@ -1155,5 +1155,18 @@
     "submissionId": "2171398995",
     "timestamp": "1791910336",
     "path": "Medium/0187_Repeated_DNA_Sequences.cpp"
+  },
+  {
+    "problemId": "4084",
+    "problemTitle": "Maximize Sum of Squares of Digits",
+    "problemSlug": "maximize-sum-of-squares-of-digits",
+    "difficulty": "Medium",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "68 ms",
+    "memory": "62 MB",
+    "submissionId": "2172256637",
+    "timestamp": "1791991760",
+    "path": "Medium/4084_Maximize_Sum_of_Squares_of_Digits.cpp"
   }
 ]
