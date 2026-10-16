@@ -1168,5 +1168,18 @@
     "submissionId": "2172256637",
     "timestamp": "1791991760",
     "path": "Medium/4084_Maximize_Sum_of_Squares_of_Digits.cpp"
+  },
+  {
+    "problemId": "1380",
+    "problemTitle": "Number of Closed Islands",
+    "problemSlug": "number-of-closed-islands",
+    "difficulty": "Medium",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "7 ms",
+    "memory": "18.5 MB",
+    "submissionId": "2173814989",
+    "timestamp": "1792153785",
+    "path": "Medium/1380_Number_of_Closed_Islands.cpp"
   }
 ]
