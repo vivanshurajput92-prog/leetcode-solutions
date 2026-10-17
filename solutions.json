@@ -1181,5 +1181,18 @@
     "submissionId": "2173814989",
     "timestamp": "1792153785",
     "path": "Medium/1380_Number_of_Closed_Islands.cpp"
+  },
+  {
+    "problemId": "3847",
+    "problemTitle": "Minimum Swaps to Sort by Digit Sum",
+    "problemSlug": "minimum-swaps-to-sort-by-digit-sum",
+    "difficulty": "Medium",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "148 ms",
+    "memory": "145 MB",
+    "submissionId": "2174605215",
+    "timestamp": "1792245313",
+    "path": "Medium/3847_Minimum_Swaps_to_Sort_by_Digit_Sum.cpp"
   }
 ]
