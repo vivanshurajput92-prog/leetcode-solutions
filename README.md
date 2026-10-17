@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 91
+Total Solved: 92
 
 ## Easy
 
@@ -81,6 +81,7 @@ Total Solved: 91
 - Length of Longest Subarray With at Most K Frequency ([C++](Medium/3225_Length_of_Longest_Subarray_With_at_Most_K_Frequency.cpp))
 - Find the Maximum Length of Valid Subsequence I ([C++](Medium/3490_Find_the_Maximum_Length_of_Valid_Subsequence_I.cpp))
 - Remove Methods From Project ([C++](Medium/3561_Remove_Methods_From_Project.cpp))
+- Minimum Swaps to Sort by Digit Sum ([C++](Medium/3847_Minimum_Swaps_to_Sort_by_Digit_Sum.cpp))
 - Lexicographically Smallest Permutation Greater Than Target ([C++](Medium/4020_Lexicographically_Smallest_Permutation_Greater_Than_Target.cpp))
 - Longest Subsequence With Non-Zero Bitwise XOR ([C++](Medium/4033_Longest_Subsequence_With_Non-Zero_Bitwise_XOR.cpp))
 - Maximum Alternating Sum of Squares ([C++](Medium/4078_Maximum_Alternating_Sum_of_Squares.cpp))
@@ -107,7 +108,7 @@ Total Solved: 91
 | Difficulty | Count |
 |------------|--------|
 | Easy | 28 |
-| Medium | 54 |
+| Medium | 55 |
 | Hard | 9 |
 
 ---
