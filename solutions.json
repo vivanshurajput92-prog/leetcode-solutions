@@ -1194,5 +1194,18 @@
     "submissionId": "2174605215",
     "timestamp": "1792245313",
     "path": "Medium/3847_Minimum_Swaps_to_Sort_by_Digit_Sum.cpp"
+  },
+  {
+    "problemId": "1692",
+    "problemTitle": "Number of Ways to Reorder Array to Get Same BST",
+    "problemSlug": "number-of-ways-to-reorder-array-to-get-same-bst",
+    "difficulty": "Hard",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "272 ms",
+    "memory": "297.7 MB",
+    "submissionId": "2175337530",
+    "timestamp": "1792322845",
+    "path": "Hard/1692_Number_of_Ways_to_Reorder_Array_to_Get_Same_BST.cpp"
   }
 ]
