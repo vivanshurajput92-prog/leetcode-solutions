@@ -1215,10 +1215,10 @@
     "difficulty": "Medium",
     "language": "C++",
     "extension": "cpp",
-    "runtime": "10 ms",
-    "memory": "33.4 MB",
-    "submissionId": "2175481584",
-    "timestamp": "1792335523",
+    "runtime": "8 ms",
+    "memory": "33.5 MB",
+    "submissionId": "2175481818",
+    "timestamp": "1792335542",
     "path": "Medium/0109_Convert_Sorted_List_to_Binary_Search_Tree.cpp"
   }
 ]
