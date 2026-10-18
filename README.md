@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 92
+Total Solved: 93
 
 ## Easy
 
@@ -101,6 +101,7 @@ Total Solved: 92
 - Number of Squareful Arrays ([C++](Hard/1038_Number_of_Squareful_Arrays.cpp))
 - Stone Game III ([C++](Hard/1522_Stone_Game_III.cpp))
 - Cherry Pickup II ([C++](Hard/1559_Cherry_Pickup_II.cpp))
+- Number of Ways to Reorder Array to Get Same BST ([C++](Hard/1692_Number_of_Ways_to_Reorder_Array_to_Get_Same_BST.cpp))
 - Apply Operations on Array to Maximize Sum of Squares ([C++](Hard/3153_Apply_Operations_on_Array_to_Maximize_Sum_of_Squares.cpp))
 
 ## Statistics
@@ -109,7 +110,7 @@ Total Solved: 92
 |------------|--------|
 | Easy | 28 |
 | Medium | 55 |
-| Hard | 9 |
+| Hard | 10 |
 
 ---
 *README.md automatically updated by [LeetCelebrate](https://github.com/)*
