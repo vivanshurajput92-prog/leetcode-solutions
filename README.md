@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 93
+Total Solved: 94
 
 ## Easy
 
@@ -49,6 +49,7 @@ Total Solved: 93
 - Subsets II ([C++](Medium/0090_Subsets_II.cpp))
 - Decode Ways ([C++](Medium/0091_Decode_Ways.cpp))
 - Unique Binary Search Trees ([C++](Medium/0096_Unique_Binary_Search_Trees.cpp))
+- Convert Sorted List to Binary Search Tree ([C++](Medium/0109_Convert_Sorted_List_to_Binary_Search_Tree.cpp))
 - Path Sum II ([C++](Medium/0113_Path_Sum_II.cpp))
 - Min Stack ([C++](Medium/0155_Min_Stack.cpp))
 - Repeated DNA Sequences ([C++](Medium/0187_Repeated_DNA_Sequences.cpp))
@@ -109,7 +110,7 @@ Total Solved: 93
 | Difficulty | Count |
 |------------|--------|
 | Easy | 28 |
-| Medium | 55 |
+| Medium | 56 |
 | Hard | 10 |
 
 ---
