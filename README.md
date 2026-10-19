@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 95
+Total Solved: 96
 
 ## Easy
 
@@ -55,6 +55,7 @@ Total Solved: 95
 - Min Stack ([C++](Medium/0155_Min_Stack.cpp))
 - Repeated DNA Sequences ([C++](Medium/0187_Repeated_DNA_Sequences.cpp))
 - Product of Array Except Self ([C++](Medium/0238_Product_of_Array_Except_Self.cpp))
+- Search a 2D Matrix II ([C++](Medium/0240_Search_a_2D_Matrix_II.cpp))
 - House Robber III ([C++](Medium/0337_House_Robber_III.cpp))
 - Wiggle Subsequence ([C++](Medium/0376_Wiggle_Subsequence.cpp))
 - Combination Sum IV ([C++](Medium/0377_Combination_Sum_IV.cpp))
@@ -111,7 +112,7 @@ Total Solved: 95
 | Difficulty | Count |
 |------------|--------|
 | Easy | 29 |
-| Medium | 56 |
+| Medium | 57 |
 | Hard | 10 |
 
 ---
