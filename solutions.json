@@ -1220,5 +1220,18 @@
     "submissionId": "2175481818",
     "timestamp": "1792335542",
     "path": "Medium/0109_Convert_Sorted_List_to_Binary_Search_Tree.cpp"
+  },
+  {
+    "problemId": "2210",
+    "problemTitle": "Find Target Indices After Sorting Array",
+    "problemSlug": "find-target-indices-after-sorting-array",
+    "difficulty": "Easy",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "1 ms",
+    "memory": "15.2 MB",
+    "submissionId": "2175917021",
+    "timestamp": "1792387251",
+    "path": "Easy/2210_Find_Target_Indices_After_Sorting_Array.cpp"
   }
 ]
