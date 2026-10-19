@@ -1233,5 +1233,18 @@
     "submissionId": "2175917021",
     "timestamp": "1792387251",
     "path": "Easy/2210_Find_Target_Indices_After_Sorting_Array.cpp"
+  },
+  {
+    "problemId": "240",
+    "problemTitle": "Search a 2D Matrix II",
+    "problemSlug": "search-a-2d-matrix-ii",
+    "difficulty": "Medium",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "104 ms",
+    "memory": "18.7 MB",
+    "submissionId": "2176274391",
+    "timestamp": "1792418365",
+    "path": "Medium/0240_Search_a_2D_Matrix_II.cpp"
   }
 ]
