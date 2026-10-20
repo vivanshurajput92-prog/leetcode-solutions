@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 98
+Total Solved: 99
 
 ## Easy
 
@@ -61,6 +61,7 @@ Total Solved: 98
 - House Robber III ([C++](Medium/0337_House_Robber_III.cpp))
 - Wiggle Subsequence ([C++](Medium/0376_Wiggle_Subsequence.cpp))
 - Combination Sum IV ([C++](Medium/0377_Combination_Sum_IV.cpp))
+- Heaters ([C++](Medium/0475_Heaters.cpp))
 - Predict the Winner ([C++](Medium/0486_Predict_the_Winner.cpp))
 - Next Greater Element II ([C++](Medium/0503_Next_Greater_Element_II.cpp))
 - Maximum Length of Pair Chain ([C++](Medium/0646_Maximum_Length_of_Pair_Chain.cpp))
@@ -114,7 +115,7 @@ Total Solved: 98
 | Difficulty | Count |
 |------------|--------|
 | Easy | 29 |
-| Medium | 59 |
+| Medium | 60 |
 | Hard | 10 |
 
 ---
