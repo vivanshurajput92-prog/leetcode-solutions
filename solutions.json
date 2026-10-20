@@ -1246,5 +1246,18 @@
     "submissionId": "2176274391",
     "timestamp": "1792418365",
     "path": "Medium/0240_Search_a_2D_Matrix_II.cpp"
+  },
+  {
+    "problemId": "167",
+    "problemTitle": "Two Sum II - Input Array Is Sorted",
+    "problemSlug": "two-sum-ii-input-array-is-sorted",
+    "difficulty": "Medium",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "0 ms",
+    "memory": "25.4 MB",
+    "submissionId": "2176895721",
+    "timestamp": "1792485050",
+    "path": "Medium/0167_Two_Sum_II_-_Input_Array_Is_Sorted.cpp"
   }
 ]
