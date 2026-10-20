@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 96
+Total Solved: 97
 
 ## Easy
 
@@ -53,6 +53,7 @@ Total Solved: 96
 - Convert Sorted List to Binary Search Tree ([C++](Medium/0109_Convert_Sorted_List_to_Binary_Search_Tree.cpp))
 - Path Sum II ([C++](Medium/0113_Path_Sum_II.cpp))
 - Min Stack ([C++](Medium/0155_Min_Stack.cpp))
+- Two Sum II - Input Array Is Sorted ([C++](Medium/0167_Two_Sum_II_-_Input_Array_Is_Sorted.cpp))
 - Repeated DNA Sequences ([C++](Medium/0187_Repeated_DNA_Sequences.cpp))
 - Product of Array Except Self ([C++](Medium/0238_Product_of_Array_Except_Self.cpp))
 - Search a 2D Matrix II ([C++](Medium/0240_Search_a_2D_Matrix_II.cpp))
@@ -112,7 +113,7 @@ Total Solved: 96
 | Difficulty | Count |
 |------------|--------|
 | Easy | 29 |
-| Medium | 57 |
+| Medium | 58 |
 | Hard | 10 |
 
 ---
