@@ -1272,5 +1272,18 @@
     "submissionId": "2176899509",
     "timestamp": "1792485434",
     "path": "Medium/0287_Find_the_Duplicate_Number.cpp"
+  },
+  {
+    "problemId": "475",
+    "problemTitle": "Heaters",
+    "problemSlug": "heaters",
+    "difficulty": "Medium",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "26 ms",
+    "memory": "29.2 MB",
+    "submissionId": "2176915216",
+    "timestamp": "1792486980",
+    "path": "Medium/0475_Heaters.cpp"
   }
 ]
