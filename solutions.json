@@ -1259,5 +1259,18 @@
     "submissionId": "2176895721",
     "timestamp": "1792485050",
     "path": "Medium/0167_Two_Sum_II_-_Input_Array_Is_Sorted.cpp"
+  },
+  {
+    "problemId": "287",
+    "problemTitle": "Find the Duplicate Number",
+    "problemSlug": "find-the-duplicate-number",
+    "difficulty": "Medium",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "1 ms",
+    "memory": "67.5 MB",
+    "submissionId": "2176899509",
+    "timestamp": "1792485434",
+    "path": "Medium/0287_Find_the_Duplicate_Number.cpp"
   }
 ]
