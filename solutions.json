@@ -1285,5 +1285,18 @@
     "submissionId": "2176915216",
     "timestamp": "1792486980",
     "path": "Medium/0475_Heaters.cpp"
+  },
+  {
+    "problemId": "4220",
+    "problemTitle": "Minimum Operations to Sort a String",
+    "problemSlug": "minimum-operations-to-sort-a-string",
+    "difficulty": "Medium",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "21 ms",
+    "memory": "27.6 MB",
+    "submissionId": "2177602191",
+    "timestamp": "1792558116",
+    "path": "Medium/4220_Minimum_Operations_to_Sort_a_String.cpp"
   }
 ]
