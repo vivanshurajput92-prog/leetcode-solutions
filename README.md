@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 100
+Total Solved: 101
 
 ## Easy
 
@@ -92,6 +92,7 @@ Total Solved: 100
 - Longest Subsequence With Non-Zero Bitwise XOR ([C++](Medium/4033_Longest_Subsequence_With_Non-Zero_Bitwise_XOR.cpp))
 - Maximum Alternating Sum of Squares ([C++](Medium/4078_Maximum_Alternating_Sum_of_Squares.cpp))
 - Maximize Sum of Squares of Digits ([C++](Medium/4084_Maximize_Sum_of_Squares_of_Digits.cpp))
+- Minimum Operations to Sort a Permutation ([C++](Medium/4184_Minimum_Operations_to_Sort_a_Permutation.cpp))
 - Minimum Operations to Sort a String ([C++](Medium/4220_Minimum_Operations_to_Sort_a_String.cpp))
 - Construct Uniform Parity Array II ([C++](Medium/4258_Construct_Uniform_Parity_Array_II.cpp))
 - Smallest Stable Index II ([C++](Medium/4285_Smallest_Stable_Index_II.cpp))
@@ -116,7 +117,7 @@ Total Solved: 100
 | Difficulty | Count |
 |------------|--------|
 | Easy | 29 |
-| Medium | 61 |
+| Medium | 62 |
 | Hard | 10 |
 
 ---
