@@ -1298,5 +1298,18 @@
     "submissionId": "2177602191",
     "timestamp": "1792558116",
     "path": "Medium/4220_Minimum_Operations_to_Sort_a_String.cpp"
+  },
+  {
+    "problemId": "4184",
+    "problemTitle": "Minimum Operations to Sort a Permutation",
+    "problemSlug": "minimum-operations-to-sort-a-permutation",
+    "difficulty": "Medium",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "4 ms",
+    "memory": "141.3 MB",
+    "submissionId": "2178649470",
+    "timestamp": "1792657470",
+    "path": "Medium/4184_Minimum_Operations_to_Sort_a_Permutation.cpp"
   }
 ]
