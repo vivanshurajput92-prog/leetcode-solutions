@@ -1311,5 +1311,18 @@
     "submissionId": "2178649470",
     "timestamp": "1792657470",
     "path": "Medium/4184_Minimum_Operations_to_Sort_a_Permutation.cpp"
+  },
+  {
+    "problemId": "3950",
+    "problemTitle": "Maximum K to Sort a Permutation",
+    "problemSlug": "maximum-k-to-sort-a-permutation",
+    "difficulty": "Medium",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "0 ms",
+    "memory": "152.3 MB",
+    "submissionId": "2179627863",
+    "timestamp": "1792757100",
+    "path": "Medium/3950_Maximum_K_to_Sort_a_Permutation.cpp"
   }
 ]
