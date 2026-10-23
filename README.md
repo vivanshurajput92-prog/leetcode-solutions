@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 101
+Total Solved: 102
 
 ## Easy
 
@@ -88,6 +88,7 @@ Total Solved: 101
 - Find the Maximum Length of Valid Subsequence I ([C++](Medium/3490_Find_the_Maximum_Length_of_Valid_Subsequence_I.cpp))
 - Remove Methods From Project ([C++](Medium/3561_Remove_Methods_From_Project.cpp))
 - Minimum Swaps to Sort by Digit Sum ([C++](Medium/3847_Minimum_Swaps_to_Sort_by_Digit_Sum.cpp))
+- Maximum K to Sort a Permutation ([C++](Medium/3950_Maximum_K_to_Sort_a_Permutation.cpp))
 - Lexicographically Smallest Permutation Greater Than Target ([C++](Medium/4020_Lexicographically_Smallest_Permutation_Greater_Than_Target.cpp))
 - Longest Subsequence With Non-Zero Bitwise XOR ([C++](Medium/4033_Longest_Subsequence_With_Non-Zero_Bitwise_XOR.cpp))
 - Maximum Alternating Sum of Squares ([C++](Medium/4078_Maximum_Alternating_Sum_of_Squares.cpp))
@@ -117,7 +118,7 @@ Total Solved: 101
 | Difficulty | Count |
 |------------|--------|
 | Easy | 29 |
-| Medium | 62 |
+| Medium | 63 |
 | Hard | 10 |
 
 ---
