@@ -1324,5 +1324,18 @@
     "submissionId": "2179627863",
     "timestamp": "1792757100",
     "path": "Medium/3950_Maximum_K_to_Sort_a_Permutation.cpp"
+  },
+  {
+    "problemId": "2496",
+    "problemTitle": "Count Days Spent Together",
+    "problemSlug": "count-days-spent-together",
+    "difficulty": "Easy",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "0 ms",
+    "memory": "8 MB",
+    "submissionId": "2180221975",
+    "timestamp": "1792825023",
+    "path": "Easy/2496_Count_Days_Spent_Together.cpp"
   }
 ]
