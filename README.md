@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 102
+Total Solved: 103
 
 ## Easy
 
@@ -19,6 +19,7 @@ Total Solved: 102
 - Replace Elements with Greatest Element on Right Side ([C++](Easy/1231_Replace_Elements_with_Greatest_Element_on_Right_Side.cpp))
 - Maximum Nesting Depth of the Parentheses ([C++](Easy/1737_Maximum_Nesting_Depth_of_the_Parentheses.cpp))
 - Find Target Indices After Sorting Array ([C++](Easy/2210_Find_Target_Indices_After_Sorting_Array.cpp))
+- Count Days Spent Together ([C++](Easy/2496_Count_Days_Spent_Together.cpp))
 - Sum of Squares of Special Elements  ([C++](Easy/2844_Sum_of_Squares_of_Special_Elements_.cpp))
 - Smallest Missing Integer Greater Than Sequential Prefix Sum ([C++](Easy/3236_Smallest_Missing_Integer_Greater_Than_Sequential_Prefix_Sum.cpp))
 - Distribute Elements Into Two Arrays I ([C++](Easy/3347_Distribute_Elements_Into_Two_Arrays_I.cpp))
@@ -117,7 +118,7 @@ Total Solved: 102
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 29 |
+| Easy | 30 |
 | Medium | 63 |
 | Hard | 10 |
 
