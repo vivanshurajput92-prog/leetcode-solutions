@@ -1176,10 +1176,10 @@
     "difficulty": "Medium",
     "language": "C++",
     "extension": "cpp",
-    "runtime": "7 ms",
-    "memory": "18.5 MB",
-    "submissionId": "2173814989",
-    "timestamp": "1792153785",
+    "runtime": "8 ms",
+    "memory": "18.4 MB",
+    "submissionId": "2181078706",
+    "timestamp": "1792902635",
     "path": "Medium/1380_Number_of_Closed_Islands.cpp"
   },
   {
