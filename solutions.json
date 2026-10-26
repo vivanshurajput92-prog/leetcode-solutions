@@ -1345,10 +1345,10 @@
     "difficulty": "Medium",
     "language": "C++",
     "extension": "cpp",
-    "runtime": "192 ms",
-    "memory": "207.9 MB",
-    "submissionId": "2182181993",
-    "timestamp": "1793015871",
+    "runtime": "159 ms",
+    "memory": "199.8 MB",
+    "submissionId": "2182185191",
+    "timestamp": "1793016177",
     "path": "Medium/3823_Count_Islands_With_Total_Value_Divisible_by_K.cpp"
   }
 ]
