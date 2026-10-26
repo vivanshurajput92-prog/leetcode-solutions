@@ -1337,5 +1337,18 @@
     "submissionId": "2180221975",
     "timestamp": "1792825023",
     "path": "Easy/2496_Count_Days_Spent_Together.cpp"
+  },
+  {
+    "problemId": "3823",
+    "problemTitle": "Count Islands With Total Value Divisible by K",
+    "problemSlug": "count-islands-with-total-value-divisible-by-k",
+    "difficulty": "Medium",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "192 ms",
+    "memory": "207.9 MB",
+    "submissionId": "2182181993",
+    "timestamp": "1793015871",
+    "path": "Medium/3823_Count_Islands_With_Total_Value_Divisible_by_K.cpp"
   }
 ]
