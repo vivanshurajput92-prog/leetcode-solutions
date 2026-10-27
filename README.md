@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 104
+Total Solved: 105
 
 ## Easy
 
@@ -32,6 +32,7 @@ Total Solved: 104
 - Count Commas in Range ([C++](Easy/4245_Count_Commas_in_Range.cpp))
 - Construct Uniform Parity Array I ([C++](Easy/4256_Construct_Uniform_Parity_Array_I.cpp))
 - Smallest Stable Index I ([C++](Easy/4284_Smallest_Stable_Index_I.cpp))
+- Create Grid With Exactly One Path ([C++](Easy/4342_Create_Grid_With_Exactly_One_Path.cpp))
 - Maximize Pair Strength Using GCD ([C++](Easy/4371_Maximize_Pair_Strength_Using_GCD.cpp))
 - Number of Intersecting Interval Pairs I ([C++](Easy/4418_Number_of_Intersecting_Interval_Pairs_I.cpp))
 
@@ -119,7 +120,7 @@ Total Solved: 104
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 30 |
+| Easy | 31 |
 | Medium | 64 |
 | Hard | 10 |
 
