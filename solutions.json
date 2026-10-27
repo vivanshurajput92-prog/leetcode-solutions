@@ -1350,5 +1350,18 @@
     "submissionId": "2182185191",
     "timestamp": "1793016177",
     "path": "Medium/3823_Count_Islands_With_Total_Value_Divisible_by_K.cpp"
+  },
+  {
+    "problemId": "4342",
+    "problemTitle": "Create Grid With Exactly One Path",
+    "problemSlug": "create-grid-with-exactly-one-path",
+    "difficulty": "Easy",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "3 ms",
+    "memory": "11 MB",
+    "submissionId": "2182868152",
+    "timestamp": "1793083892",
+    "path": "Easy/4342_Create_Grid_With_Exactly_One_Path.cpp"
   }
 ]
