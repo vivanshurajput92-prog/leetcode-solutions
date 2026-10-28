@@ -1363,5 +1363,18 @@
     "submissionId": "2182868152",
     "timestamp": "1793083892",
     "path": "Easy/4342_Create_Grid_With_Exactly_One_Path.cpp"
+  },
+  {
+    "problemId": "4205",
+    "problemTitle": "Minimum XOR Path in a Grid",
+    "problemSlug": "minimum-xor-path-in-a-grid",
+    "difficulty": "Medium",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "647 ms",
+    "memory": "364.3 MB",
+    "submissionId": "2184006375",
+    "timestamp": "1793199866",
+    "path": "Medium/4205_Minimum_XOR_Path_in_a_Grid.cpp"
   }
 ]
