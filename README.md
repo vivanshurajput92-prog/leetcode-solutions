@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 105
+Total Solved: 106
 
 ## Easy
 
@@ -97,6 +97,7 @@ Total Solved: 105
 - Maximum Alternating Sum of Squares ([C++](Medium/4078_Maximum_Alternating_Sum_of_Squares.cpp))
 - Maximize Sum of Squares of Digits ([C++](Medium/4084_Maximize_Sum_of_Squares_of_Digits.cpp))
 - Minimum Operations to Sort a Permutation ([C++](Medium/4184_Minimum_Operations_to_Sort_a_Permutation.cpp))
+- Minimum XOR Path in a Grid ([C++](Medium/4205_Minimum_XOR_Path_in_a_Grid.cpp))
 - Minimum Operations to Sort a String ([C++](Medium/4220_Minimum_Operations_to_Sort_a_String.cpp))
 - Construct Uniform Parity Array II ([C++](Medium/4258_Construct_Uniform_Parity_Array_II.cpp))
 - Smallest Stable Index II ([C++](Medium/4285_Smallest_Stable_Index_II.cpp))
@@ -121,7 +122,7 @@ Total Solved: 105
 | Difficulty | Count |
 |------------|--------|
 | Easy | 31 |
-| Medium | 64 |
+| Medium | 65 |
 | Hard | 10 |
 
 ---
