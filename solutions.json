@@ -1376,5 +1376,18 @@
     "submissionId": "2184006375",
     "timestamp": "1793199866",
     "path": "Medium/4205_Minimum_XOR_Path_in_a_Grid.cpp"
+  },
+  {
+    "problemId": "179",
+    "problemTitle": "Largest Number",
+    "problemSlug": "largest-number",
+    "difficulty": "Medium",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "22 ms",
+    "memory": "15 MB",
+    "submissionId": "2184526105",
+    "timestamp": "1793258477",
+    "path": "Medium/0179_Largest_Number.cpp"
   }
 ]
