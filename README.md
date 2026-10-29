@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 106
+Total Solved: 107
 
 ## Easy
 
@@ -56,6 +56,7 @@ Total Solved: 106
 - Path Sum II ([C++](Medium/0113_Path_Sum_II.cpp))
 - Min Stack ([C++](Medium/0155_Min_Stack.cpp))
 - Two Sum II - Input Array Is Sorted ([C++](Medium/0167_Two_Sum_II_-_Input_Array_Is_Sorted.cpp))
+- Largest Number ([C++](Medium/0179_Largest_Number.cpp))
 - Repeated DNA Sequences ([C++](Medium/0187_Repeated_DNA_Sequences.cpp))
 - Product of Array Except Self ([C++](Medium/0238_Product_of_Array_Except_Self.cpp))
 - Search a 2D Matrix II ([C++](Medium/0240_Search_a_2D_Matrix_II.cpp))
@@ -122,7 +123,7 @@ Total Solved: 106
 | Difficulty | Count |
 |------------|--------|
 | Easy | 31 |
-| Medium | 65 |
+| Medium | 66 |
 | Hard | 10 |
 
 ---
