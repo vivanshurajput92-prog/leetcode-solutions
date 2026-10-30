@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 107
+Total Solved: 108
 
 ## Easy
 
@@ -97,6 +97,7 @@ Total Solved: 107
 - Longest Subsequence With Non-Zero Bitwise XOR ([C++](Medium/4033_Longest_Subsequence_With_Non-Zero_Bitwise_XOR.cpp))
 - Maximum Alternating Sum of Squares ([C++](Medium/4078_Maximum_Alternating_Sum_of_Squares.cpp))
 - Maximize Sum of Squares of Digits ([C++](Medium/4084_Maximize_Sum_of_Squares_of_Digits.cpp))
+- Shortest Path With At Most K Consecutive Identical Characters ([C++](Medium/4104_Shortest_Path_With_At_Most_K_Consecutive_Identical_Characters.cpp))
 - Minimum Operations to Sort a Permutation ([C++](Medium/4184_Minimum_Operations_to_Sort_a_Permutation.cpp))
 - Minimum XOR Path in a Grid ([C++](Medium/4205_Minimum_XOR_Path_in_a_Grid.cpp))
 - Minimum Operations to Sort a String ([C++](Medium/4220_Minimum_Operations_to_Sort_a_String.cpp))
@@ -123,7 +124,7 @@ Total Solved: 107
 | Difficulty | Count |
 |------------|--------|
 | Easy | 31 |
-| Medium | 66 |
+| Medium | 67 |
 | Hard | 10 |
 
 ---
