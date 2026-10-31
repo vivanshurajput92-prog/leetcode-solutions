@@ -1410,10 +1410,10 @@
     "difficulty": "Medium",
     "language": "C++",
     "extension": "cpp",
-    "runtime": "1307 ms",
-    "memory": "468.7 MB",
-    "submissionId": "2186513175",
-    "timestamp": "1793483345",
+    "runtime": "96 ms",
+    "memory": "224.1 MB",
+    "submissionId": "2186514021",
+    "timestamp": "1793483548",
     "path": "Medium/3938_Twisted_Mirror_Path_Count.cpp"
   }
 ]
