@@ -1415,5 +1415,18 @@
     "submissionId": "2186514021",
     "timestamp": "1793483548",
     "path": "Medium/3938_Twisted_Mirror_Path_Count.cpp"
+  },
+  {
+    "problemId": "453",
+    "problemTitle": "Minimum Moves to Equal Array Elements",
+    "problemSlug": "minimum-moves-to-equal-array-elements",
+    "difficulty": "Medium",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "0 ms",
+    "memory": "32 MB",
+    "submissionId": "2187308782",
+    "timestamp": "1793567683",
+    "path": "Medium/0453_Minimum_Moves_to_Equal_Array_Elements.cpp"
   }
 ]
