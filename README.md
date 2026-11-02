@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 110
+Total Solved: 111
 
 ## Easy
 
@@ -65,6 +65,7 @@ Total Solved: 110
 - Wiggle Subsequence ([C++](Medium/0376_Wiggle_Subsequence.cpp))
 - Combination Sum IV ([C++](Medium/0377_Combination_Sum_IV.cpp))
 - Minimum Moves to Equal Array Elements ([C++](Medium/0453_Minimum_Moves_to_Equal_Array_Elements.cpp))
+- Minimum Moves to Equal Array Elements II ([C++](Medium/0462_Minimum_Moves_to_Equal_Array_Elements_II.cpp))
 - Heaters ([C++](Medium/0475_Heaters.cpp))
 - Predict the Winner ([C++](Medium/0486_Predict_the_Winner.cpp))
 - Next Greater Element II ([C++](Medium/0503_Next_Greater_Element_II.cpp))
@@ -126,7 +127,7 @@ Total Solved: 110
 | Difficulty | Count |
 |------------|--------|
 | Easy | 31 |
-| Medium | 69 |
+| Medium | 70 |
 | Hard | 10 |
 
 ---
