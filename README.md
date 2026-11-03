@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 111
+Total Solved: 112
 
 ## Easy
 
@@ -29,6 +29,7 @@ Total Solved: 111
 - Reverse Degree of a String ([C++](Easy/3811_Reverse_Degree_of_a_String.cpp))
 - Check Divisibility by Digit Sum and Product ([C++](Easy/3918_Check_Divisibility_by_Digit_Sum_and_Product.cpp))
 - Find Missing Elements ([C++](Easy/4107_Find_Missing_Elements.cpp))
+- Minimum Moves to Equal Array Elements III ([C++](Easy/4116_Minimum_Moves_to_Equal_Array_Elements_III.cpp))
 - Count Commas in Range ([C++](Easy/4245_Count_Commas_in_Range.cpp))
 - Construct Uniform Parity Array I ([C++](Easy/4256_Construct_Uniform_Parity_Array_I.cpp))
 - Smallest Stable Index I ([C++](Easy/4284_Smallest_Stable_Index_I.cpp))
@@ -126,7 +127,7 @@ Total Solved: 111
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 31 |
+| Easy | 32 |
 | Medium | 70 |
 | Hard | 10 |
 
