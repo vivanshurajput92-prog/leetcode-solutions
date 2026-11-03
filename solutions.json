@@ -1441,5 +1441,18 @@
     "submissionId": "2187711909",
     "timestamp": "1793619879",
     "path": "Medium/0462_Minimum_Moves_to_Equal_Array_Elements_II.cpp"
+  },
+  {
+    "problemId": "4116",
+    "problemTitle": "Minimum Moves to Equal Array Elements III",
+    "problemSlug": "minimum-moves-to-equal-array-elements-iii",
+    "difficulty": "Easy",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "2 ms",
+    "memory": "31.3 MB",
+    "submissionId": "2188444734",
+    "timestamp": "1793696307",
+    "path": "Easy/4116_Minimum_Moves_to_Equal_Array_Elements_III.cpp"
   }
 ]
