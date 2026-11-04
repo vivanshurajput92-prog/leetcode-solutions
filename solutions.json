@@ -1454,5 +1454,18 @@
     "submissionId": "2188444734",
     "timestamp": "1793696307",
     "path": "Easy/4116_Minimum_Moves_to_Equal_Array_Elements_III.cpp"
+  },
+  {
+    "problemId": "3717",
+    "problemTitle": "Minimum Operations to Make Elements Within K Subarrays Equal",
+    "problemSlug": "minimum-operations-to-make-elements-within-k-subarrays-equal",
+    "difficulty": "Hard",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "1395 ms",
+    "memory": "446.5 MB",
+    "submissionId": "2189485451",
+    "timestamp": "1793809710",
+    "path": "Hard/3717_Minimum_Operations_to_Make_Elements_Within_K_Subarrays_Equal.cpp"
   }
 ]
