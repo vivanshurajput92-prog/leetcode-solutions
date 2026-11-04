@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 112
+Total Solved: 113
 
 ## Easy
 
@@ -122,6 +122,7 @@ Total Solved: 112
 - Cherry Pickup II ([C++](Hard/1559_Cherry_Pickup_II.cpp))
 - Number of Ways to Reorder Array to Get Same BST ([C++](Hard/1692_Number_of_Ways_to_Reorder_Array_to_Get_Same_BST.cpp))
 - Apply Operations on Array to Maximize Sum of Squares ([C++](Hard/3153_Apply_Operations_on_Array_to_Maximize_Sum_of_Squares.cpp))
+- Minimum Operations to Make Elements Within K Subarrays Equal ([C++](Hard/3717_Minimum_Operations_to_Make_Elements_Within_K_Subarrays_Equal.cpp))
 
 ## Statistics
 
@@ -129,7 +130,7 @@ Total Solved: 112
 |------------|--------|
 | Easy | 32 |
 | Medium | 70 |
-| Hard | 10 |
+| Hard | 11 |
 
 ---
 *README.md automatically updated by [LeetCelebrate](https://github.com/)*
