@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 113
+Total Solved: 114
 
 ## Easy
 
@@ -17,6 +17,7 @@ Total Solved: 113
 - Rectangle Overlap ([C++](Easy/0866_Rectangle_Overlap.cpp))
 - Remove Outermost Parentheses ([C++](Easy/1078_Remove_Outermost_Parentheses.cpp))
 - Replace Elements with Greatest Element on Right Side ([C++](Easy/1231_Replace_Elements_with_Greatest_Element_on_Right_Side.cpp))
+- Find the Distance Value Between Two Arrays ([C++](Easy/1486_Find_the_Distance_Value_Between_Two_Arrays.cpp))
 - Maximum Nesting Depth of the Parentheses ([C++](Easy/1737_Maximum_Nesting_Depth_of_the_Parentheses.cpp))
 - Find Target Indices After Sorting Array ([C++](Easy/2210_Find_Target_Indices_After_Sorting_Array.cpp))
 - Count Days Spent Together ([C++](Easy/2496_Count_Days_Spent_Together.cpp))
@@ -128,7 +129,7 @@ Total Solved: 113
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 32 |
+| Easy | 33 |
 | Medium | 70 |
 | Hard | 11 |
 
