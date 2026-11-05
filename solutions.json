@@ -1467,5 +1467,18 @@
     "submissionId": "2189485451",
     "timestamp": "1793809710",
     "path": "Hard/3717_Minimum_Operations_to_Make_Elements_Within_K_Subarrays_Equal.cpp"
+  },
+  {
+    "problemId": "1486",
+    "problemTitle": "Find the Distance Value Between Two Arrays",
+    "problemSlug": "find-the-distance-value-between-two-arrays",
+    "difficulty": "Easy",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "0 ms",
+    "memory": "16.5 MB",
+    "submissionId": "2190282391",
+    "timestamp": "1793902575",
+    "path": "Easy/1486_Find_the_Distance_Value_Between_Two_Arrays.cpp"
   }
 ]
