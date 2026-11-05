@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 114
+Total Solved: 115
 
 ## Easy
 
@@ -83,6 +83,7 @@ Total Solved: 114
 - Cinema Seat Allocation ([C++](Medium/1487_Cinema_Seat_Allocation.cpp))
 - Build an Array With Stack Operations ([C++](Medium/1552_Build_an_Array_With_Stack_Operations.cpp))
 - Minimum Insertions to Balance a Parentheses String ([C++](Medium/1648_Minimum_Insertions_to_Balance_a_Parentheses_String.cpp))
+- Min Cost to Connect All Points ([C++](Medium/1706_Min_Cost_to_Connect_All_Points.cpp))
 - Sum Game ([C++](Medium/2039_Sum_Game.cpp))
 - Stone Game IX ([C++](Medium/2156_Stone_Game_IX.cpp))
 - Find the Minimum and Maximum Number of Nodes Between Critical Points ([C++](Medium/2182_Find_the_Minimum_and_Maximum_Number_of_Nodes_Between_Critical_Points.cpp))
@@ -130,7 +131,7 @@ Total Solved: 114
 | Difficulty | Count |
 |------------|--------|
 | Easy | 33 |
-| Medium | 70 |
+| Medium | 71 |
 | Hard | 11 |
 
 ---
