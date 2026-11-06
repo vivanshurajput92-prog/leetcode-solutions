@@ -1493,5 +1493,18 @@
     "submissionId": "2190310030",
     "timestamp": "1793905287",
     "path": "Medium/1706_Min_Cost_to_Connect_All_Points.cpp"
+  },
+  {
+    "problemId": "2833",
+    "problemTitle": "Count Zero Request Servers",
+    "problemSlug": "count-zero-request-servers",
+    "difficulty": "Medium",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "46 ms",
+    "memory": "199.1 MB",
+    "submissionId": "2190968533",
+    "timestamp": "1794000906",
+    "path": "Medium/2833_Count_Zero_Request_Servers.cpp"
   }
 ]
