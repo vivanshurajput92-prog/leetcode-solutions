@@ -1,0 +1,27 @@
+/*
+ * Problem: Count Valid Substrings I
+ * Problem ID: 4467
+ * Difficulty: Medium
+ * Language: C++
+ * Runtime: 7 ms
+ * Memory: 21.7 MB
+ * Synced From: LeetCode
+ * Date: 2026-11-09
+ */
+
+class Solution {
+public:
+    long long countValidSubstrings(string s) {
+        long long count = 0;
+        int n = s.size();
+        int i = 0;
+        int j = 0;
+        while (j < n) {
+            if (j >= 2 && s[j - 2] == 'a' && s[j - 1] == 'b' && s[j] == 'c') 
+                i = j - 1;
+            count = count + (j - i + 1);
+            j++;
+        }
+        return count;
+    }
+};
