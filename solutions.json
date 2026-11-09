@@ -1506,5 +1506,18 @@
     "submissionId": "2190968533",
     "timestamp": "1794000906",
     "path": "Medium/2833_Count_Zero_Request_Servers.cpp"
+  },
+  {
+    "problemId": "4468",
+    "problemTitle": "Count Valid Substrings II",
+    "problemSlug": "count-valid-substrings-ii",
+    "difficulty": "Medium",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "51 ms",
+    "memory": "52.7 MB",
+    "submissionId": "2192309400",
+    "timestamp": "1794206973",
+    "path": "Medium/4468_Count_Valid_Substrings_II.cpp"
   }
 ]
