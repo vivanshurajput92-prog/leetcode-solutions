@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 116
+Total Solved: 117
 
 ## Easy
 
@@ -112,6 +112,7 @@ Total Solved: 116
 - Smallest Stable Index II ([C++](Medium/4285_Smallest_Stable_Index_II.cpp))
 - Count Subarrays With Even Odd Ratio I ([C++](Medium/4323_Count_Subarrays_With_Even_Odd_Ratio_I.cpp))
 - Number of Intersecting Interval Pairs II ([C++](Medium/4417_Number_of_Intersecting_Interval_Pairs_II.cpp))
+- Count Valid Substrings II ([C++](Medium/4468_Count_Valid_Substrings_II.cpp))
 
 ## Hard
 
@@ -132,7 +133,7 @@ Total Solved: 116
 | Difficulty | Count |
 |------------|--------|
 | Easy | 33 |
-| Medium | 72 |
+| Medium | 73 |
 | Hard | 11 |
 
 ---
