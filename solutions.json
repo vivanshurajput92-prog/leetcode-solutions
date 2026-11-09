@@ -1519,5 +1519,18 @@
     "submissionId": "2192309400",
     "timestamp": "1794206973",
     "path": "Medium/4468_Count_Valid_Substrings_II.cpp"
+  },
+  {
+    "problemId": "4467",
+    "problemTitle": "Count Valid Substrings I",
+    "problemSlug": "count-valid-substrings-i",
+    "difficulty": "Medium",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "7 ms",
+    "memory": "21.7 MB",
+    "submissionId": "2192317974",
+    "timestamp": "1794207963",
+    "path": "Medium/4467_Count_Valid_Substrings_I.cpp"
   }
 ]
