@@ -1532,5 +1532,18 @@
     "submissionId": "2192317974",
     "timestamp": "1794207963",
     "path": "Medium/4467_Count_Valid_Substrings_I.cpp"
+  },
+  {
+    "problemId": "4041",
+    "problemTitle": "Climbing Stairs II",
+    "problemSlug": "climbing-stairs-ii",
+    "difficulty": "Medium",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "21 ms",
+    "memory": "177.7 MB",
+    "submissionId": "2193375625",
+    "timestamp": "1794333250",
+    "path": "Medium/4041_Climbing_Stairs_II.cpp"
   }
 ]
