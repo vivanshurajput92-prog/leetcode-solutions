@@ -1545,5 +1545,18 @@
     "submissionId": "2193375625",
     "timestamp": "1794333250",
     "path": "Medium/4041_Climbing_Stairs_II.cpp"
+  },
+  {
+    "problemId": "4438",
+    "problemTitle": "Longest Resilient Subarray I",
+    "problemSlug": "longest-resilient-subarray-i",
+    "difficulty": "Medium",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "0 ms",
+    "memory": "39.4 MB",
+    "submissionId": "2193390438",
+    "timestamp": "1794334511",
+    "path": "Medium/4438_Longest_Resilient_Subarray_I.cpp"
   }
 ]
