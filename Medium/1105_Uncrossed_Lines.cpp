@@ -3,8 +3,8 @@
  * Problem ID: 1105
  * Difficulty: Medium
  * Language: C++
- * Runtime: 3 ms
- * Memory: 13 MB
+ * Runtime: 2 ms
+ * Memory: 13.1 MB
  * Synced From: LeetCode
  * Date: 2026-11-11
  */
@@ -17,11 +17,8 @@ public:
         vector<int> dp(m+1,0),curr(m+1,0);
         for(int i=n-1;i>=0;i--){
             for(int j=m-1;j>=0;j--){
-                if (nums1[i] == nums2[j]) {
-                    curr[j] = 1 + dp[j + 1];
-                } else {
-                    curr[j] = max(dp[j], curr[j + 1]);
-                }
+                if (nums1[i] == nums2[j]) curr[j] = 1 + dp[j + 1];
+                else curr[j] = max(dp[j],curr[j + 1]);
             }
             swap(dp,curr);
         }
