@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 120
+Total Solved: 121
 
 ## Easy
 
@@ -106,6 +106,7 @@ Total Solved: 120
 - Maximum Alternating Sum of Squares ([C++](Medium/4078_Maximum_Alternating_Sum_of_Squares.cpp))
 - Maximize Sum of Squares of Digits ([C++](Medium/4084_Maximize_Sum_of_Squares_of_Digits.cpp))
 - Shortest Path With At Most K Consecutive Identical Characters ([C++](Medium/4104_Shortest_Path_With_At_Most_K_Consecutive_Identical_Characters.cpp))
+- Minimum Cost to Acquire Required Items ([C++](Medium/4147_Minimum_Cost_to_Acquire_Required_Items.cpp))
 - Minimum Operations to Sort a Permutation ([C++](Medium/4184_Minimum_Operations_to_Sort_a_Permutation.cpp))
 - Minimum XOR Path in a Grid ([C++](Medium/4205_Minimum_XOR_Path_in_a_Grid.cpp))
 - Minimum Operations to Sort a String ([C++](Medium/4220_Minimum_Operations_to_Sort_a_String.cpp))
@@ -136,7 +137,7 @@ Total Solved: 120
 | Difficulty | Count |
 |------------|--------|
 | Easy | 33 |
-| Medium | 76 |
+| Medium | 77 |
 | Hard | 11 |
 
 ---
