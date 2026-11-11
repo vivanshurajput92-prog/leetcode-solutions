@@ -1571,5 +1571,18 @@
     "submissionId": "2193794000",
     "timestamp": "1794392209",
     "path": "Medium/4147_Minimum_Cost_to_Acquire_Required_Items.cpp"
+  },
+  {
+    "problemId": "1105",
+    "problemTitle": "Uncrossed Lines",
+    "problemSlug": "uncrossed-lines",
+    "difficulty": "Medium",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "47 ms",
+    "memory": "16.5 MB",
+    "submissionId": "2194110490",
+    "timestamp": "1794421708",
+    "path": "Medium/1105_Uncrossed_Lines.cpp"
   }
 ]
