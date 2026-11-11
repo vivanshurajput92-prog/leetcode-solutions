@@ -1579,10 +1579,10 @@
     "difficulty": "Medium",
     "language": "C++",
     "extension": "cpp",
-    "runtime": "78 ms",
-    "memory": "12.9 MB",
-    "submissionId": "2194117541",
-    "timestamp": "1794422405",
+    "runtime": "3 ms",
+    "memory": "13 MB",
+    "submissionId": "2194118674",
+    "timestamp": "1794422524",
     "path": "Medium/1105_Uncrossed_Lines.cpp"
   }
 ]
