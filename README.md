@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 121
+Total Solved: 122
 
 ## Easy
 
@@ -79,6 +79,7 @@ Total Solved: 121
 - Stone Game ([C++](Medium/0909_Stone_Game.cpp))
 - Boats to Save People ([C++](Medium/0917_Boats_to_Save_People.cpp))
 - Minimum Add to Make Parentheses Valid ([C++](Medium/0957_Minimum_Add_to_Make_Parentheses_Valid.cpp))
+- Uncrossed Lines ([C++](Medium/1105_Uncrossed_Lines.cpp))
 - Number of Closed Islands ([C++](Medium/1380_Number_of_Closed_Islands.cpp))
 - Cinema Seat Allocation ([C++](Medium/1487_Cinema_Seat_Allocation.cpp))
 - Build an Array With Stack Operations ([C++](Medium/1552_Build_an_Array_With_Stack_Operations.cpp))
@@ -137,7 +138,7 @@ Total Solved: 121
 | Difficulty | Count |
 |------------|--------|
 | Easy | 33 |
-| Medium | 77 |
+| Medium | 78 |
 | Hard | 11 |
 
 ---
