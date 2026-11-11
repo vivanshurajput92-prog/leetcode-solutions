@@ -1558,5 +1558,18 @@
     "submissionId": "2193390438",
     "timestamp": "1794334511",
     "path": "Medium/4438_Longest_Resilient_Subarray_I.cpp"
+  },
+  {
+    "problemId": "4147",
+    "problemTitle": "Minimum Cost to Acquire Required Items",
+    "problemSlug": "minimum-cost-to-acquire-required-items",
+    "difficulty": "Medium",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "0 ms",
+    "memory": "9.3 MB",
+    "submissionId": "2193794000",
+    "timestamp": "1794392209",
+    "path": "Medium/4147_Minimum_Cost_to_Acquire_Required_Items.cpp"
   }
 ]
