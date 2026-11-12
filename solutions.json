@@ -1584,5 +1584,18 @@
     "submissionId": "2194120181",
     "timestamp": "1794422689",
     "path": "Medium/1105_Uncrossed_Lines.cpp"
+  },
+  {
+    "problemId": "3372",
+    "problemTitle": "Longest Strictly Increasing or Strictly Decreasing Subarray",
+    "problemSlug": "longest-strictly-increasing-or-strictly-decreasing-subarray",
+    "difficulty": "Easy",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "0 ms",
+    "memory": "27.6 MB",
+    "submissionId": "2194477352",
+    "timestamp": "1794473378",
+    "path": "Easy/3372_Longest_Strictly_Increasing_or_Strictly_Decreasing_Subarray.cpp"
   }
 ]
