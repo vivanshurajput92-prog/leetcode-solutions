@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 122
+Total Solved: 123
 
 ## Easy
 
@@ -24,6 +24,7 @@ Total Solved: 122
 - Sum of Squares of Special Elements  ([C++](Easy/2844_Sum_of_Squares_of_Special_Elements_.cpp))
 - Smallest Missing Integer Greater Than Sequential Prefix Sum ([C++](Easy/3236_Smallest_Missing_Integer_Greater_Than_Sequential_Prefix_Sum.cpp))
 - Distribute Elements Into Two Arrays I ([C++](Easy/3347_Distribute_Elements_Into_Two_Arrays_I.cpp))
+- Longest Strictly Increasing or Strictly Decreasing Subarray ([C++](Easy/3372_Longest_Strictly_Increasing_or_Strictly_Decreasing_Subarray.cpp))
 - Smallest Divisible Digit Product I ([C++](Easy/3626_Smallest_Divisible_Digit_Product_I.cpp))
 - Find the Largest Almost Missing Integer ([C++](Easy/3705_Find_the_Largest_Almost_Missing_Integer.cpp))
 - Unique 3-Digit Even Numbers ([C++](Easy/3799_Unique_3-Digit_Even_Numbers.cpp))
@@ -137,7 +138,7 @@ Total Solved: 122
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 33 |
+| Easy | 34 |
 | Medium | 78 |
 | Hard | 11 |
 
