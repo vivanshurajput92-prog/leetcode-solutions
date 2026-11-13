@@ -1605,10 +1605,10 @@
     "difficulty": "Medium",
     "language": "C++",
     "extension": "cpp",
-    "runtime": "0 ms",
+    "runtime": "1 ms",
     "memory": "7.6 MB",
-    "submissionId": "2195469639",
-    "timestamp": "1794591930",
+    "submissionId": "2195469911",
+    "timestamp": "1794591954",
     "path": "Medium/0365_Water_and_Jug_Problem.cpp"
   }
 ]
