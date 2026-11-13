@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 123
+Total Solved: 124
 
 ## Easy
 
@@ -65,6 +65,7 @@ Total Solved: 123
 - Search a 2D Matrix II ([C++](Medium/0240_Search_a_2D_Matrix_II.cpp))
 - Find the Duplicate Number ([C++](Medium/0287_Find_the_Duplicate_Number.cpp))
 - House Robber III ([C++](Medium/0337_House_Robber_III.cpp))
+- Water and Jug Problem ([C++](Medium/0365_Water_and_Jug_Problem.cpp))
 - Wiggle Subsequence ([C++](Medium/0376_Wiggle_Subsequence.cpp))
 - Combination Sum IV ([C++](Medium/0377_Combination_Sum_IV.cpp))
 - Minimum Moves to Equal Array Elements ([C++](Medium/0453_Minimum_Moves_to_Equal_Array_Elements.cpp))
@@ -139,7 +140,7 @@ Total Solved: 123
 | Difficulty | Count |
 |------------|--------|
 | Easy | 34 |
-| Medium | 78 |
+| Medium | 79 |
 | Hard | 11 |
 
 ---
