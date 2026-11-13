@@ -1597,5 +1597,18 @@
     "submissionId": "2194477352",
     "timestamp": "1794473378",
     "path": "Easy/3372_Longest_Strictly_Increasing_or_Strictly_Decreasing_Subarray.cpp"
+  },
+  {
+    "problemId": "365",
+    "problemTitle": "Water and Jug Problem",
+    "problemSlug": "water-and-jug-problem",
+    "difficulty": "Medium",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "0 ms",
+    "memory": "7.9 MB",
+    "submissionId": "2195469472",
+    "timestamp": "1794591915",
+    "path": "Medium/0365_Water_and_Jug_Problem.cpp"
   }
 ]
