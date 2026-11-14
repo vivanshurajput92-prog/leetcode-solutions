@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 124
+Total Solved: 125
 
 ## Easy
 
@@ -26,6 +26,7 @@ Total Solved: 124
 - Distribute Elements Into Two Arrays I ([C++](Easy/3347_Distribute_Elements_Into_Two_Arrays_I.cpp))
 - Longest Strictly Increasing or Strictly Decreasing Subarray ([C++](Easy/3372_Longest_Strictly_Increasing_or_Strictly_Decreasing_Subarray.cpp))
 - Smallest Divisible Digit Product I ([C++](Easy/3626_Smallest_Divisible_Digit_Product_I.cpp))
+- Minimum Positive Sum Subarray  ([C++](Easy/3644_Minimum_Positive_Sum_Subarray_.cpp))
 - Find the Largest Almost Missing Integer ([C++](Easy/3705_Find_the_Largest_Almost_Missing_Integer.cpp))
 - Unique 3-Digit Even Numbers ([C++](Easy/3799_Unique_3-Digit_Even_Numbers.cpp))
 - Reverse Degree of a String ([C++](Easy/3811_Reverse_Degree_of_a_String.cpp))
@@ -139,7 +140,7 @@ Total Solved: 124
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 34 |
+| Easy | 35 |
 | Medium | 79 |
 | Hard | 11 |
 
