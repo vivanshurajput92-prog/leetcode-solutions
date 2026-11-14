@@ -1610,5 +1610,18 @@
     "submissionId": "2195470132",
     "timestamp": "1794591974",
     "path": "Medium/0365_Water_and_Jug_Problem.cpp"
+  },
+  {
+    "problemId": "3644",
+    "problemTitle": "Minimum Positive Sum Subarray ",
+    "problemSlug": "minimum-positive-sum-subarray",
+    "difficulty": "Easy",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "1 ms",
+    "memory": "29.5 MB",
+    "submissionId": "2195962092",
+    "timestamp": "1794664509",
+    "path": "Easy/3644_Minimum_Positive_Sum_Subarray_.cpp"
   }
 ]
