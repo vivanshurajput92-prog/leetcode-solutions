@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 125
+Total Solved: 126
 
 ## Easy
 
@@ -86,6 +86,7 @@ Total Solved: 125
 - Number of Closed Islands ([C++](Medium/1380_Number_of_Closed_Islands.cpp))
 - Cinema Seat Allocation ([C++](Medium/1487_Cinema_Seat_Allocation.cpp))
 - Build an Array With Stack Operations ([C++](Medium/1552_Build_an_Array_With_Stack_Operations.cpp))
+- Number of Sub-arrays With Odd Sum ([C++](Medium/1631_Number_of_Sub-arrays_With_Odd_Sum.cpp))
 - Minimum Insertions to Balance a Parentheses String ([C++](Medium/1648_Minimum_Insertions_to_Balance_a_Parentheses_String.cpp))
 - Min Cost to Connect All Points ([C++](Medium/1706_Min_Cost_to_Connect_All_Points.cpp))
 - Sum Game ([C++](Medium/2039_Sum_Game.cpp))
@@ -141,7 +142,7 @@ Total Solved: 125
 | Difficulty | Count |
 |------------|--------|
 | Easy | 35 |
-| Medium | 79 |
+| Medium | 80 |
 | Hard | 11 |
 
 ---
