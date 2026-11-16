@@ -1636,5 +1636,18 @@
     "submissionId": "2196559251",
     "timestamp": "1794738809",
     "path": "Medium/1631_Number_of_Sub-arrays_With_Odd_Sum.cpp"
+  },
+  {
+    "problemId": "2361",
+    "problemTitle": "Calculate Digit Sum of a String",
+    "problemSlug": "calculate-digit-sum-of-a-string",
+    "difficulty": "Easy",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "0 ms",
+    "memory": "8.8 MB",
+    "submissionId": "2197192307",
+    "timestamp": "1794821007",
+    "path": "Easy/2361_Calculate_Digit_Sum_of_a_String.cpp"
   }
 ]
