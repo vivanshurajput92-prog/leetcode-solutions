@@ -1649,5 +1649,18 @@
     "submissionId": "2197192307",
     "timestamp": "1794821007",
     "path": "Easy/2361_Calculate_Digit_Sum_of_a_String.cpp"
+  },
+  {
+    "problemId": "3174",
+    "problemTitle": "Minimum Number of Changes to Make Binary String Beautiful",
+    "problemSlug": "minimum-number-of-changes-to-make-binary-string-beautiful",
+    "difficulty": "Medium",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "4 ms",
+    "memory": "13.7 MB",
+    "submissionId": "2198763589",
+    "timestamp": "1795014615",
+    "path": "Medium/3174_Minimum_Number_of_Changes_to_Make_Binary_String_Beautiful.cpp"
   }
 ]
