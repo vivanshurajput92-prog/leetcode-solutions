@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 127
+Total Solved: 128
 
 ## Easy
 
@@ -98,6 +98,7 @@ Total Solved: 127
 - Minimum Sum of Squared Difference ([C++](Medium/2418_Minimum_Sum_of_Squared_Difference.cpp))
 - Count Zero Request Servers ([C++](Medium/2833_Count_Zero_Request_Servers.cpp))
 - Shortest and Lexicographically Smallest Beautiful String ([C++](Medium/3150_Shortest_and_Lexicographically_Smallest_Beautiful_String.cpp))
+- Minimum Number of Changes to Make Binary String Beautiful ([C++](Medium/3174_Minimum_Number_of_Changes_to_Make_Binary_String_Beautiful.cpp))
 - Make Lexicographically Smallest Array by Swapping Elements ([C++](Medium/3219_Make_Lexicographically_Smallest_Array_by_Swapping_Elements.cpp))
 - Length of Longest Subarray With at Most K Frequency ([C++](Medium/3225_Length_of_Longest_Subarray_With_at_Most_K_Frequency.cpp))
 - Find the Maximum Length of Valid Subsequence I ([C++](Medium/3490_Find_the_Maximum_Length_of_Valid_Subsequence_I.cpp))
@@ -143,7 +144,7 @@ Total Solved: 127
 | Difficulty | Count |
 |------------|--------|
 | Easy | 36 |
-| Medium | 80 |
+| Medium | 81 |
 | Hard | 11 |
 
 ---
