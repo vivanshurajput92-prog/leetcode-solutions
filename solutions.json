@@ -1662,5 +1662,18 @@
     "submissionId": "2198763589",
     "timestamp": "1795014615",
     "path": "Medium/3174_Minimum_Number_of_Changes_to_Make_Binary_String_Beautiful.cpp"
+  },
+  {
+    "problemId": "2706",
+    "problemTitle": "Minimum Score by Changing Two Elements",
+    "problemSlug": "minimum-score-by-changing-two-elements",
+    "difficulty": "Medium",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "14 ms",
+    "memory": "38 MB",
+    "submissionId": "2199335628",
+    "timestamp": "1795092079",
+    "path": "Medium/2706_Minimum_Score_by_Changing_Two_Elements.cpp"
   }
 ]
