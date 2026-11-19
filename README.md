@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 128
+Total Solved: 129
 
 ## Easy
 
@@ -96,6 +96,7 @@ Total Solved: 128
 - Removing Minimum and Maximum From Array ([C++](Medium/2212_Removing_Minimum_and_Maximum_From_Array.cpp))
 - Count Nodes Equal to Average of Subtree ([C++](Medium/2347_Count_Nodes_Equal_to_Average_of_Subtree.cpp))
 - Minimum Sum of Squared Difference ([C++](Medium/2418_Minimum_Sum_of_Squared_Difference.cpp))
+- Minimum Score by Changing Two Elements ([C++](Medium/2706_Minimum_Score_by_Changing_Two_Elements.cpp))
 - Count Zero Request Servers ([C++](Medium/2833_Count_Zero_Request_Servers.cpp))
 - Shortest and Lexicographically Smallest Beautiful String ([C++](Medium/3150_Shortest_and_Lexicographically_Smallest_Beautiful_String.cpp))
 - Minimum Number of Changes to Make Binary String Beautiful ([C++](Medium/3174_Minimum_Number_of_Changes_to_Make_Binary_String_Beautiful.cpp))
@@ -144,7 +145,7 @@ Total Solved: 128
 | Difficulty | Count |
 |------------|--------|
 | Easy | 36 |
-| Medium | 81 |
+| Medium | 82 |
 | Hard | 11 |
 
 ---
