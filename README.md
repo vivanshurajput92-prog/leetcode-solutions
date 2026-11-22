@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 129
+Total Solved: 130
 
 ## Easy
 
@@ -20,6 +20,7 @@ Total Solved: 129
 - Find the Distance Value Between Two Arrays ([C++](Easy/1486_Find_the_Distance_Value_Between_Two_Arrays.cpp))
 - Maximum Nesting Depth of the Parentheses ([C++](Easy/1737_Maximum_Nesting_Depth_of_the_Parentheses.cpp))
 - Find Target Indices After Sorting Array ([C++](Easy/2210_Find_Target_Indices_After_Sorting_Array.cpp))
+- Check if All A's Appears Before All B's ([C++](Easy/2243_Check_if_All_As_Appears_Before_All_Bs.cpp))
 - Calculate Digit Sum of a String ([C++](Easy/2361_Calculate_Digit_Sum_of_a_String.cpp))
 - Count Days Spent Together ([C++](Easy/2496_Count_Days_Spent_Together.cpp))
 - Sum of Squares of Special Elements  ([C++](Easy/2844_Sum_of_Squares_of_Special_Elements_.cpp))
@@ -144,7 +145,7 @@ Total Solved: 129
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 36 |
+| Easy | 37 |
 | Medium | 82 |
 | Hard | 11 |
 
