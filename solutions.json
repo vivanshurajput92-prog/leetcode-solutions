@@ -1675,5 +1675,18 @@
     "submissionId": "2199335628",
     "timestamp": "1795092079",
     "path": "Medium/2706_Minimum_Score_by_Changing_Two_Elements.cpp"
+  },
+  {
+    "problemId": "2243",
+    "problemTitle": "Check if All A's Appears Before All B's",
+    "problemSlug": "check-if-all-as-appears-before-all-bs",
+    "difficulty": "Easy",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "0 ms",
+    "memory": "8.2 MB",
+    "submissionId": "2201388479",
+    "timestamp": "1795364961",
+    "path": "Easy/2243_Check_if_All_As_Appears_Before_All_Bs.cpp"
   }
 ]
