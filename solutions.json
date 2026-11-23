@@ -1688,5 +1688,18 @@
     "submissionId": "2201388479",
     "timestamp": "1795364961",
     "path": "Easy/2243_Check_if_All_As_Appears_Before_All_Bs.cpp"
+  },
+  {
+    "problemId": "1477",
+    "problemTitle": "Product of the Last K Numbers",
+    "problemSlug": "product-of-the-last-k-numbers",
+    "difficulty": "Medium",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "1079 ms",
+    "memory": "111 MB",
+    "submissionId": "2202209490",
+    "timestamp": "1795471082",
+    "path": "Medium/1477_Product_of_the_Last_K_Numbers.cpp"
   }
 ]
