@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 130
+Total Solved: 131
 
 ## Easy
 
@@ -86,6 +86,7 @@ Total Solved: 130
 - Minimum Add to Make Parentheses Valid ([C++](Medium/0957_Minimum_Add_to_Make_Parentheses_Valid.cpp))
 - Uncrossed Lines ([C++](Medium/1105_Uncrossed_Lines.cpp))
 - Number of Closed Islands ([C++](Medium/1380_Number_of_Closed_Islands.cpp))
+- Product of the Last K Numbers ([C++](Medium/1477_Product_of_the_Last_K_Numbers.cpp))
 - Cinema Seat Allocation ([C++](Medium/1487_Cinema_Seat_Allocation.cpp))
 - Build an Array With Stack Operations ([C++](Medium/1552_Build_an_Array_With_Stack_Operations.cpp))
 - Number of Sub-arrays With Odd Sum ([C++](Medium/1631_Number_of_Sub-arrays_With_Odd_Sum.cpp))
@@ -146,7 +147,7 @@ Total Solved: 130
 | Difficulty | Count |
 |------------|--------|
 | Easy | 37 |
-| Medium | 82 |
+| Medium | 83 |
 | Hard | 11 |
 
 ---
